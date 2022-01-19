@@ -1,0 +1,684 @@
+Hero,Combo,Occurences
+Marci,"['blink', 'marci_companion_run']",1
+Nyx Assassin,"['nyx_assassin_spiked_carapace', 'nyx_assassin_spiked_carapace', 'nyx_assassin_vendetta']",1
+Skywrath Mage,"['skywrath_mage_concussive_shot', 'skywrath_mage_arcane_bolt']",1
+Viper,"['viper_nethertoxin', 'viper_nethertoxin']",3
+Winter Wyvern,"['winter_wyvern_cold_embrace', 'winter_wyvern_arctic_burn', 'winter_wyvern_arctic_burn', 'winter_wyvern_splinter_blast']",1
+Legion Commander,"['legion_commander_press_the_attack', 'legion_commander_press_the_attack', 'legion_commander_overwhelming_odds']",1
+Ogre Magi,"['aghsfort_special_undying_consume_zombies', 'aghsfort_undying_flesh_golem', 'aghsfort_queenofpain_sonic_wave', 'aghsfort_undying_soul_rip', 'aghsfort_queenofpain_blink', 'aghsfort_phoenix_sun_ray', 'aghsfort_trap_room_hookshot', 'aghsfort_phoenix_sun_ray_toggle_move', 'aghsfort_queenofpain_shadow_strike', 'aghsfort_phoenix_icarus_dive', 'plus_high_five', 'crimson_guard', 'trap_room_sprint', 'aghsfort_phoenix_fire_spirits', 'veil_of_discord', 'nullifier', 'aghsfort_queenofpain_scream_of_pain', 'aghsfort_undying_decay', 'mango_orchard_toss_mango', 'aghsfort_phoenix_supernova', 'aghsfort_undying_tombstone']",1
+Axe,"['aghsfort_winter_wyvern_cold_embrace', 'aghsfort_phoenix_icarus_dive', 'aghsfort_winter_wyvern_winters_curse', 'aghsfort_winter_wyvern_arctic_burn', 'aghsfort_phoenix_fire_spirits', 'veil_of_discord', 'wind_waker', 'aghsfort_phoenix_sun_ray', 'mango_orchard_toss_mango', 'aghsfort_phoenix_supernova', 'aghsfort_phoenix_sun_ray_toggle_move', 'aghsfort_winter_wyvern_splinter_blast']",1
+Tiny,"['tiny_tree_grab', 'tiny_avalanche', 'tiny_tree_grab', 'tiny_avalanche']",1
+Abaddon,"['abaddon_aphotic_shield', 'abaddon_borrowed_time', 'abaddon_death_coil']",1
+Juggernaut,"['juggernaut_blade_fury', 'juggernaut_healing_ward', 'juggernaut_healing_ward']",1
+Death Prophet,"['death_prophet_carrion_swarm', 'death_prophet_carrion_swarm']",3
+Ember Spirit,"['ember_spirit_sleight_of_fist', 'ember_spirit_sleight_of_fist']",1
+Underlord,"['plus_high_five', 'aghsfort_kunkka_tidebringer', 'aghsfort_gyrocopter_flak_cannon', 'aghsfort_gyrocopter_call_down', 'aghsfort_kunkka_x_marks_the_spot', 'mango_orchard_toss_mango', 'aghsfort_kunkka_torrent', 'aghsfort_gyrocopter_rocket_barrage', 'aghsfort_gyrocopter_homing_missile', 'aghsfort_kunkka_ghostship']",1
+Gyrocopter,"['gyrocopter_homing_missile', 'gyrocopter_flak_cannon']",1
+Sniper,"['sniper_shrapnel', 'sniper_take_aim']",1
+Ursa,"['diffusal_blade', 'ursa_overpower', 'ursa_earthshock']",1
+Marci,"['marci_grapple', 'marci_companion_run', 'marci_unleash', 'marci_guardian', 'marci_grapple']",1
+Grimstroke,"['grimstroke_ink_creature', 'grimstroke_dark_artistry', 'grimstroke_ink_creature', 'grimstroke_dark_artistry']",1
+Tinker,"['tinker_defense_matrix', 'blink', 'tinker_keen_teleport', 'tinker_laser', 'tinker_heat_seeking_missile']",1
+Chaos Knight,"['chaos_knight_chaos_bolt', 'chaos_knight_reality_rift', 'chaos_knight_phantasm', 'chaos_knight_phantasm']",1
+Dawnbreaker,"['dawnbreaker_solar_guardian', 'lotus_orb']",1
+Venomancer,"['venomancer_plague_ward', 'venomancer_poison_nova', 'venomancer_venomous_gale', 'venomancer_venomous_gale', 'venomancer_plague_ward']",1
+Ursa,"['ursa_earthshock', 'ursa_overpower', 'ursa_overpower', 'ursa_earthshock']",1
+Snapfire,"['snapfire_lil_shredder', 'snapfire_scatterblast']",1
+Lich,"['lich_sinister_gaze', 'lich_frost_shield', 'lich_frost_nova']",1
+Hoodwink,"['hoodwink_acorn_shot', 'hoodwink_sharpshooter']",1
+Ancient Apparition,"['force_staff', 'ancient_apparition_ice_blast', 'ancient_apparition_chilling_touch']",1
+Elder Titan,"['blade_mail', 'elder_titan_ancestral_spirit']",1
+Hoodwink,"['hoodwink_acorn_shot', 'hoodwink_bushwhack']",1
+Shadow Demon,"['shadow_demon_shadow_poison', 'shadow_demon_shadow_poison_release', 'shadow_demon_demonic_purge', 'shadow_demon_disruption', 'shadow_demon_demonic_purge']",1
+Broodmother,"['broodmother_spawn_spiderlings', 'hand_of_midas', 'broodmother_insatiable_hunger', 'broodmother_spawn_spiderlings', 'orchid']",1
+Templar Assassin,"['templar_assassin_refraction', 'templar_assassin_refraction']",1
+Jakiro,"['jakiro_dual_breath', 'jakiro_dual_breath']",2
+Hoodwink,"['hoodwink_hunters_boomerang', 'hoodwink_scurry', 'glimmer_cape', 'hoodwink_bushwhack', 'hoodwink_decoy', 'hoodwink_sharpshooter']",1
+Dark Willow,"['dark_willow_bramble_maze', 'dark_willow_bramble_maze']",1
+Omniknight,"['plus_high_five', 'omniknight_purification']",1
+Razor,"['razor_static_link', 'razor_plasma_field', 'razor_static_link']",1
+Queen of Pain,"['queenofpain_scream_of_pain', 'queenofpain_shadow_strike', 'queenofpain_shadow_strike', 'queenofpain_blink']",1
+Ancient Apparition,"['ancient_apparition_cold_feet', 'ancient_apparition_ice_vortex', 'ancient_apparition_ice_vortex', 'ancient_apparition_ice_blast', 'ancient_apparition_chilling_touch']",1
+Chaos Knight,"['chaos_knight_phantasm', 'chaos_knight_chaos_bolt', 'chaos_knight_reality_rift']",1
+Outworld Destroyer,"['obsidian_destroyer_astral_imprisonment', 'obsidian_destroyer_arcane_orb', 'meteor_hammer', 'meteor_hammer', 'obsidian_destroyer_arcane_orb', 'obsidian_destroyer_astral_imprisonment']",1
+Sniper,"['sniper_shrapnel', 'sniper_take_aim', 'sniper_shrapnel', 'sniper_take_aim']",1
+Drow Ranger,"['drow_ranger_multishot', 'drow_ranger_multishot']",1
+Ursa,"['ursa_earthshock', 'ursa_overpower', 'ursa_earthshock']",1
+Windranger,"['windrunner_shackleshot', 'windrunner_powershot', 'windrunner_powershot', 'windrunner_windrun']",1
+Brewmaster,"['blink', 'hand_of_midas']",1
+Earth Spirit,"['aghsfort_phoenix_icarus_dive', 'aghsfort_phoenix_fire_spirits', 'aghsfort_phoenix_sun_ray_toggle_move', 'aghsfort_phoenix_sun_ray']",1
+Bristleback,"['bristleback_quill_spray', 'bristleback_quill_spray']",3
+Undying,"['undying_tombstone', 'undying_decay', 'undying_tombstone', 'undying_decay']",1
+Lion,"['lion_impale', 'lion_impale']",2
+Snapfire,"['snapfire_firesnap_cookie', 'snapfire_lil_shredder', 'snapfire_scatterblast']",1
+Enchantress,"['enchantress_impetus', 'enchantress_enchant']",1
+Queen of Pain,"['queenofpain_scream_of_pain', 'queenofpain_shadow_strike', 'queenofpain_shadow_strike', 'queenofpain_scream_of_pain']",1
+Grimstroke,"['grimstroke_dark_artistry', 'grimstroke_dark_portrait', 'grimstroke_spirit_walk']",1
+Undying,"['undying_soul_rip', 'undying_soul_rip', 'undying_decay']",1
+Witch Doctor,"['witch_doctor_paralyzing_cask', 'witch_doctor_paralyzing_cask', 'witch_doctor_maledict']",1
+Witch Doctor,"['aghsfort_phoenix_icarus_dive', 'aghsfort_undying_flesh_golem', 'aghsfort_disruptor_thunder_strike', 'trap_room_invuln', 'aghsfort_void_spirit_dissimilate', 'aghsfort_phoenix_fire_spirits', 'aghsfort_disruptor_glimpse', 'lone_druid_savage_roar', 'aghsfort_undying_soul_rip', 'wind_waker', 'aghsfort_phoenix_sun_ray', 'aghsfort_disruptor_static_storm', 'aghsfort_disruptor_kinetic_field', 'lone_druid_spirit_bear', 'aghsfort_undying_decay', 'mango_orchard_toss_mango', 'aghsfort_trap_room_hookshot', 'lone_druid_true_form', 'cyclone', 'aghsfort_undying_tombstone', 'dagon']",1
+Sand King,"['sandking_burrowstrike', 'blink', 'heavens_halberd', 'veil_of_discord']",1
+Bristleback,"['bristleback_viscous_nasal_goo', 'bristleback_quill_spray']",1
+Juggernaut,"['manta', 'juggernaut_blade_fury']",1
+Bristleback,"['aghsfort_mars_spear', 'aghsfort_mars_gods_rebuke', 'aghsfort_mars_arena_of_blood', 'aghsfort_mars_bulwark']",1
+Earthshaker,"['earthshaker_enchant_totem', 'earthshaker_fissure']",1
+Underlord,"['abyssal_underlord_pit_of_malice', 'abyssal_underlord_firestorm', 'abyssal_underlord_pit_of_malice']",1
+Omniknight,"['omniknight_purification', 'omniknight_purification']",2
+Shadow Shaman,"['shadow_shaman_ether_shock', 'shadow_shaman_ether_shock']",1
+Phoenix,"['phoenix_icarus_dive', 'phoenix_sun_ray']",1
+Spirit Breaker,"['spirit_breaker_charge_of_darkness', 'spirit_breaker_bulldoze', 'spirit_breaker_charge_of_darkness', 'invis_sword', 'spirit_breaker_nether_strike']",1
+Ancient Apparition,"['ancient_apparition_chilling_touch', 'ancient_apparition_ice_vortex', 'ancient_apparition_cold_feet', 'ancient_apparition_chilling_touch']",1
+Bounty Hunter,"['guardian_greaves', 'aghsfort_omniknight_degen_aura', 'aghsfort_lina_laguna_blade', 'aghsfort_special_omniknight_guardian_angel_single_target', 'aghsfort_omniknight_purification', 'aghsfort_trap_room_hookshot', 'aghsfort_omniknight_guardian_angel', 'invis_sword', 'aghsfort_omniknight_repel', 'wind_waker', 'aghsfort_lina_dragon_slave', 'aghsfort_lina_fiery_soul', 'mango_orchard_toss_mango', 'aghsfort_lina_light_strike_array', 'sheepstick']",1
+Silencer,"['silencer_curse_of_the_silent', 'silencer_curse_of_the_silent']",3
+Arc Warden,"['arc_warden_spark_wraith', 'arc_warden_tempest_double', 'hand_of_midas', 'arc_warden_spark_wraith', 'arc_warden_magnetic_field', 'arc_warden_tempest_double']",1
+Ursa,"['ursa_overpower', 'ursa_earthshock', 'ursa_overpower']",1
+Bloodseeker,"['bloodseeker_blood_bath', 'bloodseeker_rupture', 'bloodseeker_bloodrage', 'bloodseeker_blood_bath']",1
+Lina,"['lina_light_strike_array', 'silver_edge', 'lina_light_strike_array', 'lina_dragon_slave', 'black_king_bar']",1
+Dawnbreaker,"['dawnbreaker_converge', 'dawnbreaker_fire_wreath']",1
+Clockwerk,"['rattletrap_battery_assault', 'rattletrap_power_cogs']",1
+Invoker,"['invoker_forge_spirit', 'invoker_emp', 'invoker_tornado', 'invoker_invoke', 'invoker_cold_snap', 'invoker_emp', 'invoker_tornado', 'invoker_invoke']",1
+Tusk,"['tusk_snowball', 'tusk_tag_team', 'tusk_ice_shards']",1
+Phantom Lancer,"['phantom_lancer_doppelwalk', 'phantom_lancer_phantom_edge', 'phantom_lancer_spirit_lance', 'phantom_lancer_phantom_edge']",1
+Phantom Assassin,"['phantom_assassin_phantom_strike', 'black_king_bar', 'phantom_assassin_stifling_dagger', 'phantom_assassin_phantom_strike']",1
+Shadow Demon,"['shadow_demon_shadow_poison', 'shadow_demon_disruption']",1
+Lich,"['lich_sinister_gaze', 'lich_frost_nova', 'lich_frost_nova', 'lich_frost_shield']",1
+Mars,"['mars_spear', 'mars_spear']",1
+Queen of Pain,"['aghsfort_templar_assassin_meld', 'aghsfort_templar_assassin_refraction']",1
+Jakiro,"['jakiro_liquid_fire', 'jakiro_dual_breath', 'jakiro_macropyre', 'jakiro_macropyre', 'jakiro_ice_path', 'jakiro_dual_breath']",1
+Rubick,"['rubick_fade_bolt', 'rubick_telekinesis']",1
+Pangolier,"['pangolier_shield_crash', 'hood_of_defiance', 'pangolier_swashbuckle', 'pangolier_shield_crash']",1
+Skywrath Mage,"['skywrath_mage_arcane_bolt', 'skywrath_mage_concussive_shot']",1
+Marci,"['marci_grapple', 'marci_grapple']",2
+Centaur Warrunner,"['blade_mail', 'centaur_double_edge', 'centaur_hoof_stomp', 'blink']",1
+Kunkka,"['kunkka_tidebringer', 'invis_sword', 'kunkka_x_marks_the_spot', 'kunkka_ghostship', 'kunkka_tidebringer']",1
+Phantom Lancer,"['phantom_lancer_spirit_lance', 'phantom_lancer_phantom_edge', 'phantom_lancer_phantom_edge']",1
+Huskar,"['huskar_life_break', 'huskar_inner_fire']",2
+Wraith King,"['hand_of_midas', 'blink', 'skeleton_king_vampiric_aura']",1
+Silencer,"['silencer_curse_of_the_silent', 'silencer_curse_of_the_silent', 'silencer_last_word']",1
+Magnus,"['magnataur_shockwave', 'magnataur_empower']",1
+Slardar,"['slardar_amplify_damage', 'slardar_sprint', 'slardar_slithereen_crush']",1
+Lich,"['lich_frost_nova', 'lich_frost_shield', 'lich_frost_nova']",1
+Kunkka,"['kunkka_tidebringer', 'kunkka_tidebringer']",2
+Phoenix,"['veil_of_discord', 'phoenix_fire_spirits']",1
+Dark Seer,"['dark_seer_vacuum', 'dark_seer_ion_shell', 'dark_seer_wall_of_replica', 'dark_seer_vacuum']",1
+Hoodwink,"['aghsfort_undying_flesh_golem', 'hoodwink_sharpshooter', 'force_staff', 'hurricane_pike', 'mjollnir', 'aghsfort_gyrocopter_flak_cannon', 'aghsfort_gyrocopter_call_down', 'aghsfort_juggernaut_omni_slash', 'aghsfort_juggernaut_healing_ward', 'aghsfort_void_spirit_aether_remnant', 'mask_of_madness', 'ethereal_blade', 'hoodwink_scurry', 'aghsfort_gyrocopter_rocket_barrage', 'aghsfort_trap_room_meathook', 'aghsfort_juggernaut_blade_fury', 'aghsfort2_drow_ranger_multishot', 'aghsfort_void_spirit_resonant_pulse', 'aghsfort_void_spirit_astral_step', 'aghsfort_void_spirit_dissimilate', 'wind_waker', 'ghost', 'hoodwink_bushwhack', 'aghsfort_undying_decay', 'hoodwink_acorn_shot', 'aghsfort2_drow_ranger_wave_of_silence', 'aghsfort_undying_tombstone', 'aghsfort2_drow_ranger_marksmanship', 'aghsfort_juggernaut_blade_dance']",1
+Rubick,"['rubick_telekinesis', 'shredder_timber_chain', 'rubick_telekinesis', 'rubick_spell_steal', 'blink']",1
+Monkey King,"['monkey_king_boundless_strike', 'monkey_king_primal_spring', 'monkey_king_tree_dance']",1
+Underlord,"['abyssal_underlord_firestorm', 'abyssal_underlord_pit_of_malice']",1
+Tidehunter,"['plus_high_five', 'tidehunter_anchor_smash']",1
+Riki,"['riki_smoke_screen', 'riki_smoke_screen']",1
+Visage,"['visage_grave_chill', 'visage_grave_chill']",2
+Hoodwink,"['hoodwink_bushwhack', 'hoodwink_acorn_shot']",1
+Terrorblade,"['terrorblade_conjure_image', 'terrorblade_sunder']",1
+Jakiro,"['jakiro_ice_path', 'jakiro_dual_breath']",1
+Undying,"['undying_decay', 'undying_decay', 'undying_tombstone']",1
+Morphling,"['morphling_replicate', 'morphling_waveform']",2
+Tidehunter,"['blink', 'tidehunter_anchor_smash', 'blink']",1
+Phantom Lancer,"['phantom_lancer_phantom_edge', 'phantom_lancer_spirit_lance', 'phantom_lancer_phantom_edge']",1
+Anti-Mage,"['antimage_blink', 'antimage_counterspell', 'antimage_counterspell', 'antimage_blink']",1
+Lich,"['lich_frost_nova', 'lich_frost_nova']",2
+Abaddon,"['abaddon_death_coil', 'abaddon_aphotic_shield']",1
+Razor,"['razor_static_link', 'razor_plasma_field', 'razor_plasma_field']",1
+Meepo,"['meepo_poof', 'meepo_poof']",1
+Skywrath Mage,"['hurricane_pike', 'satanic', 'aghsfort2_drow_ranger_multishot', 'aghsfort2_drow_ranger_frost_arrows', 'aghsfort2_drow_ranger_wave_of_silence', 'aghsfort2_drow_ranger_marksmanship']",1
+Phoenix,"['phoenix_icarus_dive', 'phoenix_fire_spirits']",1
+Faceless Void,"['faceless_void_time_walk', 'faceless_void_time_walk']",2
+Anti-Mage,"['antimage_blink', 'antimage_blink']",1
+Arc Warden,"['arc_warden_tempest_double', 'arc_warden_spark_wraith']",1
+Mars,"['mars_gods_rebuke', 'mars_spear']",1
+Alchemist,"['alchemist_acid_spray', 'alchemist_acid_spray']",3
+Windranger,"['windrunner_powershot', 'windrunner_powershot']",1
+Lina,"['lina_light_strike_array', 'lina_dragon_slave', 'lina_dragon_slave', 'lina_light_strike_array']",1
+Oracle,"['oracle_fortunes_end', 'oracle_purifying_flames', 'oracle_purifying_flames']",1
+Leshrac,"['leshrac_split_earth', 'leshrac_lightning_storm']",1
+Monkey King,"['monkey_king_tree_dance', 'monkey_king_tree_dance', 'monkey_king_boundless_strike']",1
+Jakiro,"['jakiro_liquid_fire', 'jakiro_liquid_ice', 'jakiro_ice_path', 'jakiro_liquid_fire', 'jakiro_dual_breath', 'cyclone']",1
+Monkey King,"['monkey_king_primal_spring', 'monkey_king_tree_dance', 'monkey_king_tree_dance', 'monkey_king_wukongs_command']",1
+Disruptor,"['disruptor_thunder_strike', 'disruptor_thunder_strike']",2
+Bloodseeker,"['bloodseeker_blood_bath', 'bloodseeker_blood_bath']",2
+Warlock,"['warlock_fatal_bonds', 'warlock_shadow_word', 'warlock_fatal_bonds']",1
+Snapfire,"['snapfire_firesnap_cookie', 'snapfire_scatterblast', 'snapfire_scatterblast', 'snapfire_firesnap_cookie']",1
+Lifestealer,"['aghsfort_winter_wyvern_cold_embrace', 'aghsfort_winter_wyvern_winters_curse', 'aghsfort_undying_flesh_golem', 'aghsfort_winter_wyvern_arctic_burn', 'plus_high_five', 'force_staff', 'aghsfort_undying_decay', 'guardian_greaves', 'crimson_guard', 'mango_orchard_toss_mango', 'mekansm', 'aghsfort_undying_tombstone', 'glimmer_cape', 'monkey_king_boundless_strike', 'aghsfort_undying_soul_rip', 'aghsfort_winter_wyvern_splinter_blast']",1
+Windranger,"['windrunner_powershot', 'windrunner_shackleshot']",1
+Wraith King,"['blink', 'skeleton_king_vampiric_aura', 'skeleton_king_hellfire_blast']",1
+Ember Spirit,"['ember_spirit_searing_chains', 'ember_spirit_sleight_of_fist']",1
+Grimstroke,"['aghsfort_phoenix_icarus_dive', 'silver_edge', 'aghsfort_snapfire_scatterblast', 'plus_high_five', 'force_staff', 'trap_room_sprint', 'aghsfort_phoenix_fire_spirits', 'veil_of_discord', 'wind_waker', 'aghsfort_snapfire_firesnap_cookie', 'aghsfort_phoenix_sun_ray', 'mango_orchard_toss_mango', 'aghsfort_phoenix_sun_ray_toggle_move', 'aghsfort_snapfire_lil_shredder', 'aghsfort_snapfire_mortimer_kisses']",1
+Templar Assassin,"['aghsfort_viper_nethertoxin', 'aghsfort_luna_eclipse', 'trap_room_invuln', 'aghsfort_gyrocopter_flak_cannon', 'aghsfort_viper_viper_strike', 'aghsfort_viper_poison_attack', 'aghsfort_luna_moon_glaive', 'aghsfort_luna_lunar_blessing', 'aghsfort_luna_lucent_beam', 'wind_waker', 'blink', 'aghsfort_viper_corrosive_skin', 'aghsfort_gyrocopter_rocket_barrage', 'cyclone', 'aghsfort_gyrocopter_homing_missile']",1
+Tidehunter,"['tidehunter_anchor_smash', 'tidehunter_gush']",1
+Phantom Assassin,"['phantom_assassin_stifling_dagger', 'phantom_assassin_phantom_strike', 'phantom_assassin_stifling_dagger']",1
+Ogre Magi,"['ogre_magi_fireblast', 'ogre_magi_ignite', 'ogre_magi_bloodlust', 'ogre_magi_fireblast']",2
+Dazzle,"['dazzle_poison_touch', 'dazzle_shallow_grave', 'dazzle_poison_touch', 'dazzle_shadow_wave']",1
+Night Stalker,"['night_stalker_void', 'night_stalker_void']",2
+Lion,"['aghsfort_viper_nethertoxin', 'aghsfort_undying_flesh_golem', 'guardian_greaves', 'aghsfort_omniknight_degen_aura', 'aghsfort_undying_soul_rip', 'aghsfort_special_omniknight_guardian_angel_single_target', 'aghsfort_phoenix_sun_ray_stop', 'aghsfort_phoenix_sun_ray', 'aghsfort_omniknight_purification', 'eternal_shroud', 'aghsfort_trap_room_hookshot', 'mekansm', 'aghsfort_phoenix_sun_ray_toggle_move', 'aghsfort_trap_room_meathook', 'aghsfort_phoenix_icarus_dive', 'aghsfort_omniknight_guardian_angel', 'aghsfort_mars_spear', 'trap_room_invuln', 'crimson_guard', 'aghsfort_phoenix_fire_spirits', 'veil_of_discord', 'aghsfort_omniknight_repel', 'ghost', 'aghsfort_undying_decay', 'mango_orchard_toss_mango', 'aghsfort_mars_gods_rebuke', 'aghsfort_mars_arena_of_blood', 'aghsfort_phoenix_supernova', 'aghsfort_undying_tombstone', 'aghsfort_mars_bulwark']",1
+Broodmother,"['broodmother_silken_bola', 'black_king_bar', 'orchid']",1
+Windranger,"['windrunner_powershot', 'windrunner_powershot', 'windrunner_windrun']",2
+Bane,"['bane_brain_sap', 'bane_nightmare']",1
+Witch Doctor,"['witch_doctor_paralyzing_cask', 'witch_doctor_paralyzing_cask', 'witch_doctor_voodoo_restoration']",1
+Windranger,"['windrunner_powershot', 'windrunner_focusfire', 'windrunner_powershot', 'windrunner_windrun']",1
+Doom,"['doom_bringer_devour', 'blink', 'doom_bringer_scorched_earth', 'blink']",1
+Warlock,"['warlock_rain_of_chaos', 'warlock_rain_of_chaos', 'warlock_fatal_bonds']",1
+Io,"['wisp_tether_break', 'wisp_tether_break']",2
+Lina,"['lina_light_strike_array', 'lina_light_strike_array', 'lina_dragon_slave']",1
+Grimstroke,"['grimstroke_dark_artistry', 'grimstroke_spirit_walk']",1
+Meepo,"['meepo_earthbind', 'blink', 'blink', 'meepo_earthbind']",1
+Timbersaw,"['aghsfort2_drow_ranger_multishot', 'aghsfort2_drow_ranger_frost_arrows', 'hurricane_pike', 'black_king_bar', 'mask_of_madness', 'satanic', 'mango_orchard_toss_mango', 'aghsfort2_drow_ranger_wave_of_silence', 'manta', 'aghsfort2_drow_ranger_marksmanship']",1
+Snapfire,"['plus_guild_banner', 'snapfire_firesnap_cookie']",1
+Troll Warlord,"['troll_warlord_whirling_axes_ranged', 'troll_warlord_whirling_axes_melee']",2
+Arc Warden,"['arc_warden_spark_wraith', 'arc_warden_spark_wraith']",3
+Zeus,"['zuus_lightning_bolt', 'zuus_arc_lightning', 'zuus_lightning_bolt']",1
+Death Prophet,"['death_prophet_spirit_siphon', 'death_prophet_carrion_swarm', 'death_prophet_carrion_swarm']",1
+Morphling,"['morphling_adaptive_strike_agi', 'morphling_waveform', 'morphling_adaptive_strike_agi']",1
+Vengeful Spirit,"['vengefulspirit_wave_of_terror', 'vengefulspirit_nether_swap']",1
+Spirit Breaker,"['spirit_breaker_bulldoze', 'spirit_breaker_charge_of_darkness', 'mask_of_madness']",1
+Techies,"['techies_remote_mines', 'techies_land_mines', 'techies_focused_detonate', 'techies_remote_mines', 'techies_stasis_trap']",1
+Skywrath Mage,"['skywrath_mage_ancient_seal', 'skywrath_mage_concussive_shot', 'skywrath_mage_arcane_bolt']",1
+Nyx Assassin,"['nyx_assassin_impale', 'nyx_assassin_impale']",3
+Enigma,"['enigma_malefice', 'enigma_midnight_pulse', 'enigma_malefice']",1
+Slark,"['slark_dark_pact', 'slark_pounce', 'slark_dark_pact']",1
+Axe,"['blink', 'axe_battle_hunger', 'axe_berserkers_call']",1
+Earthshaker,"['aghsfort_phoenix_icarus_dive', 'aghsfort2_drow_ranger_multishot', 'aghsfort_undying_flesh_golem', 'aghsfort2_drow_ranger_frost_arrows', 'plus_high_five', 'refresher', 'aghsfort_phoenix_fire_spirits', 'aghsfort_undying_soul_rip', 'wind_waker', 'aghsfort_phoenix_sun_ray_stop', 'aghsfort_phoenix_sun_ray', 'aghsfort_undying_decay', 'aghsfort2_drow_ranger_wave_of_silence', 'cyclone', 'aghsfort_phoenix_supernova', 'aghsfort_undying_tombstone', 'aghsfort2_drow_ranger_marksmanship', 'aghsfort_phoenix_sun_ray_toggle_move']",1
+Void Spirit,"['void_spirit_resonant_pulse', 'void_spirit_dissimilate']",1
+Bane,"['bane_brain_sap', 'blink', 'bane_brain_sap']",1
+Riki,"['riki_blink_strike', 'riki_smoke_screen']",1
+Bounty Hunter,"['bounty_hunter_wind_walk', 'bounty_hunter_jinada']",1
+Magnus,"['magnataur_reverse_polarity', 'magnataur_empower', 'blink', 'magnataur_skewer']",1
+Alchemist,"['alchemist_chemical_rage', 'alchemist_acid_spray']",1
+Juggernaut,"['juggernaut_blade_fury', 'juggernaut_healing_ward', 'juggernaut_blade_fury']",1
+Phantom Assassin,"['phantom_assassin_phantom_strike', 'phantom_assassin_stifling_dagger', 'phantom_assassin_phantom_strike', 'phantom_assassin_stifling_dagger']",1
+Timbersaw,"['shredder_timber_chain', 'shredder_timber_chain', 'shredder_whirling_death']",1
+Weaver,"['weaver_geminate_attack', 'weaver_the_swarm', 'weaver_shukuchi', 'weaver_the_swarm', 'weaver_geminate_attack']",1
+Death Prophet,"['cyclone', 'death_prophet_carrion_swarm']",1
+Ancient Apparition,"['ancient_apparition_chilling_touch', 'ancient_apparition_cold_feet', 'ancient_apparition_chilling_touch']",1
+Drow Ranger,"['drow_ranger_frost_arrows', 'drow_ranger_multishot']",1
+Mirana,"['aghsfort_juggernaut_blade_fury', 'heavens_halberd', 'trap_room_invuln', 'crimson_guard', 'trap_room_sprint', 'mirana_starfall', 'aghsfort_kunkka_tidebringer', 'aghsfort_juggernaut_omni_slash', 'aghsfort_kunkka_x_marks_the_spot', 'aghsfort_juggernaut_healing_ward', 'mirana_arrow', 'mango_orchard_toss_mango', 'aghsfort_kunkka_torrent', 'aghsfort_kunkka_ghostship', 'aghsfort_juggernaut_blade_dance']",1
+Void Spirit,"['void_spirit_aether_remnant', 'void_spirit_aether_remnant', 'void_spirit_dissimilate']",1
+Elder Titan,"['elder_titan_ancestral_spirit', 'elder_titan_ancestral_spirit']",2
+Shadow Fiend,"['nevermore_shadowraze1', 'nevermore_shadowraze3', 'nevermore_shadowraze1', 'nevermore_shadowraze2', 'nevermore_shadowraze3']",1
+Slark,"['slark_pounce', 'slark_dark_pact', 'slark_pounce']",1
+Sven,"['aghsfort_winter_wyvern_cold_embrace', 'aghsfort2_drow_ranger_multishot', 'aghsfort_winter_wyvern_arctic_burn', 'aghsfort2_drow_ranger_frost_arrows', 'mask_of_madness', 'mango_orchard_toss_mango', 'aghsfort2_drow_ranger_wave_of_silence', 'aghsfort2_drow_ranger_marksmanship', 'aghsfort_winter_wyvern_splinter_blast']",1
+Anti-Mage,"['antimage_mana_void', 'manta', 'antimage_blink']",1
+Omniknight,"['aghsfort_phoenix_icarus_dive', 'aghsfort_phoenix_sun_ray', 'aghsfort_phoenix_fire_spirits', 'aghsfort_phoenix_supernova']",1
+Nature's Prophet,"['furion_force_of_nature', 'furion_force_of_nature']",1
+Dawnbreaker,"['plus_high_five', 'dawnbreaker_converge']",1
+Phantom Lancer,"['phantom_lancer_phantom_edge', 'phantom_lancer_phantom_edge']",1
+Legion Commander,"['legion_commander_overwhelming_odds', 'legion_commander_press_the_attack', 'legion_commander_press_the_attack']",1
+Winter Wyvern,"['winter_wyvern_arctic_burn', 'winter_wyvern_splinter_blast', 'winter_wyvern_arctic_burn']",1
+Necrophos,"['necrolyte_death_pulse', 'veil_of_discord', 'necrolyte_sadist', 'necrolyte_death_pulse']",1
+Winter Wyvern,"['winter_wyvern_arctic_burn', 'winter_wyvern_cold_embrace']",1
+Bounty Hunter,"['bounty_hunter_jinada', 'bounty_hunter_track', 'bounty_hunter_wind_walk']",1
+Keeper of the Light,"['keeper_of_the_light_illuminate', 'keeper_of_the_light_chakra_magic', 'keeper_of_the_light_chakra_magic', 'keeper_of_the_light_illuminate', 'keeper_of_the_light_radiant_bind']",1
+Magnus,"['magnataur_skewer', 'magnataur_empower']",1
+Sniper,"['aghsfort_omniknight_degen_aura', 'aghsfort_juggernaut_omni_slash', 'aghsfort_juggernaut_healing_ward', 'aghsfort_phoenix_sun_ray', 'lion_finger_of_death', 'aghsfort_omniknight_purification', 'aghsfort_juggernaut_zen_ward', 'aghsfort_juggernaut_blade_fury', 'aghsfort_phoenix_icarus_dive', 'aghsfort_omniknight_guardian_angel', 'aghsfort_phoenix_fire_spirits', 'aghsfort_omniknight_repel', 'mango_orchard_toss_mango', 'aghsfort_juggernaut_blade_dance']",1
+Puck,"['puck_illusory_orb', 'puck_ethereal_jaunt', 'puck_waning_rift']",1
+Tinker,"['blink', 'blink', 'tinker_rearm', 'tinker_heat_seeking_missile', 'tinker_laser']",1
+Sven,"['sven_storm_bolt', 'sven_storm_bolt']",1
+Luna,"['aghsfort_templar_assassin_psi_blades', 'aghsfort_undying_flesh_golem', 'aghsfort_templar_assassin_psionic_trap', 'aghsfort_lina_laguna_blade', 'aghsfort_undying_soul_rip', 'aghsfort_templar_assassin_refraction', 'aghsfort_templar_assassin_meld', 'aghsfort_lina_dragon_slave', 'aghsfort_undying_decay', 'aghsfort_omniknight_purification', 'mango_orchard_toss_mango', 'aghsfort_lina_light_strike_array', 'aghsfort_undying_tombstone']",1
+Clockwerk,"['rattletrap_battery_assault', 'spirit_vessel', 'rattletrap_rocket_flare']",1
+Rubick,"['rubick_fade_bolt', 'rubick_fade_bolt']",1
+Techies,"['techies_minefield_sign', 'techies_minefield_sign', 'techies_land_mines']",1
+Keeper of the Light,"['keeper_of_the_light_chakra_magic', 'keeper_of_the_light_illuminate']",1
+Puck,"['puck_ethereal_jaunt', 'puck_illusory_orb', 'puck_illusory_orb']",1
+Invoker,"['invoker_sun_strike', 'invoker_tornado', 'invoker_forge_spirit']",1
+Techies,"['techies_focused_detonate', 'techies_remote_mines', 'techies_stasis_trap']",1
+Snapfire,"['snapfire_firesnap_cookie', 'blink']",1
+Timbersaw,"['shredder_timber_chain', 'shredder_whirling_death']",1
+Meepo,"['meepo_earthbind', 'plus_guild_banner']",1
+Hoodwink,"['hoodwink_acorn_shot', 'hoodwink_scurry', 'hoodwink_bushwhack']",1
+Mars,"['mars_gods_rebuke', 'mars_gods_rebuke']",1
+Pangolier,"['pangolier_swashbuckle', 'pangolier_shield_crash']",1
+Ember Spirit,"['ember_spirit_fire_remnant', 'ember_spirit_activate_fire_remnant', 'ember_spirit_searing_chains', 'ember_spirit_sleight_of_fist', 'ember_spirit_fire_remnant']",1
+Ogre Magi,"['hand_of_midas', 'ogre_magi_ignite', 'ogre_magi_bloodlust', 'ogre_magi_bloodlust', 'ogre_magi_fireblast']",1
+Visage,"['visage_stone_form_self_cast', 'visage_soul_assumption', 'visage_silent_as_the_grave', 'visage_stone_form_self_cast', 'visage_grave_chill']",1
+Outworld Destroyer,"['obsidian_destroyer_arcane_orb', 'obsidian_destroyer_arcane_orb', 'obsidian_destroyer_astral_imprisonment']",2
+Venomancer,"['venomancer_venomous_gale', 'veil_of_discord', 'venomancer_plague_ward']",1
+Alchemist,"['alchemist_acid_spray', 'overwhelming_blink']",1
+Undying,"['undying_decay', 'undying_decay']",1
+Death Prophet,"['death_prophet_carrion_swarm', 'death_prophet_spirit_siphon']",2
+Tinker,"['tinker_keen_teleport', 'tinker_laser']",1
+Outworld Destroyer,"['obsidian_destroyer_astral_imprisonment', 'obsidian_destroyer_arcane_orb', 'obsidian_destroyer_arcane_orb']",1
+Dazzle,"['dazzle_shadow_wave', 'dazzle_shallow_grave', 'dazzle_poison_touch', 'dazzle_shadow_wave']",1
+Lina,"['sandking_sand_storm', 'blink', 'cyclone', 'sandking_burrowstrike', 'plus_high_five', 'abyssal_blade', 'sandking_epicenter']",1
+Void Spirit,"['void_spirit_dissimilate', 'void_spirit_dissimilate']",1
+Grimstroke,"['grimstroke_dark_artistry', 'grimstroke_dark_artistry', 'grimstroke_spirit_walk']",1
+Faceless Void,"['faceless_void_time_walk', 'faceless_void_time_dilation', 'faceless_void_time_dilation']",1
+Sniper,"['sniper_shrapnel', 'sniper_shrapnel']",2
+Void Spirit,"['void_spirit_resonant_pulse', 'void_spirit_resonant_pulse']",2
+Arc Warden,"['puck_waning_rift', 'puck_dream_coil', 'puck_illusory_orb', 'aghsfort_gyrocopter_flak_cannon', 'aghsfort_gyrocopter_call_down', 'puck_phase_shift', 'aghsfort_gyrocopter_rocket_barrage', 'puck_ethereal_jaunt']",1
+Marci,"['marci_grapple', 'plus_high_five']",1
+Brewmaster,"['brewmaster_cinder_brew', 'brewmaster_thunder_clap']",2
+Monkey King,"['monkey_king_primal_spring', 'monkey_king_tree_dance', 'monkey_king_tree_dance', 'monkey_king_boundless_strike']",1
+Grimstroke,"['glimmer_cape', 'spirit_vessel', 'grimstroke_dark_artistry', 'grimstroke_spirit_walk', 'grimstroke_ink_creature', 'grimstroke_dark_artistry']",1
+Invoker,"['invoker_invoke', 'invoker_cold_snap']",2
+Sven,"['sven_storm_bolt', 'sven_warcry']",1
+Vengeful Spirit,"['vengefulspirit_wave_of_terror', 'solar_crest', 'vengefulspirit_magic_missile', 'vengefulspirit_nether_swap']",1
+Warlock,"['ogre_magi_fireblast', 'hand_of_midas', 'swift_blink', 'aghsfort_templar_assassin_psionic_trap', 'plus_high_five', 'bloodthorn', 'aghsfort_templar_assassin_refraction', 'nullifier', 'ogre_magi_ignite', 'aghsfort_templar_assassin_meld', 'blink', 'ogre_magi_bloodlust', 'bloodstone', 'mango_orchard_toss_mango', 'orchid']",1
+Spirit Breaker,"['aghsfort_undying_flesh_golem', 'guardian_greaves', 'aghsfort_undying_soul_rip', 'trap_room_phase_shift', 'aghsfort_void_spirit_aether_remnant', 'aghsfort_phoenix_sun_ray_stop', 'aghsfort_phoenix_sun_ray', 'aghsfort_omniknight_purification', 'mekansm', 'aghsfort_phoenix_sun_ray_toggle_move', 'aghsfort_trap_room_meathook', 'aghsfort_phoenix_icarus_dive', 'aghsfort_omniknight_guardian_angel', 'aghsfort_void_spirit_resonant_pulse', 'refresher', 'aghsfort_void_spirit_astral_step', 'aghsfort_void_spirit_dissimilate', 'aghsfort_phoenix_fire_spirits', 'aghsfort_omniknight_repel', 'aghsfort_undying_decay', 'mango_orchard_toss_mango', 'aghsfort_phoenix_supernova', 'aghsfort_undying_tombstone']",1
+Visage,"['silver_edge', 'aghsfort_undying_flesh_golem', 'plus_guild_banner', 'swift_blink', 'plus_high_five', 'refresher', 'trap_room_invuln', 'hurricane_pike', 'aghsfort_undying_soul_rip', 'aghsfort_undying_decay', 'satanic', 'cyclone', 'aghsfort_undying_tombstone', 'blade_mail']",1
+Chaos Knight,"['chaos_knight_phantasm', 'chaos_knight_phantasm', 'blink', 'chaos_knight_chaos_bolt']",1
+Zeus,"['zuus_arc_lightning', 'zuus_lightning_bolt']",1
+Necrophos,"['necrolyte_death_pulse', 'necrolyte_death_pulse']",3
+Spectre,"['spectre_spectral_dagger', 'spectre_spectral_dagger']",4
+Lion,"['lion_voodoo', 'lion_mana_drain', 'lion_mana_drain', 'lion_impale', 'lion_voodoo']",1
+Pudge,"['pudge_meat_hook', 'pudge_meat_hook']",2
+Winter Wyvern,"['winter_wyvern_arctic_burn', 'winter_wyvern_arctic_burn']",2
+Medusa,"['medusa_mystic_snake', 'medusa_mystic_snake']",2
+Winter Wyvern,"['winter_wyvern_splinter_blast', 'winter_wyvern_cold_embrace', 'winter_wyvern_arctic_burn']",1
+Undying,"['undying_decay', 'undying_soul_rip', 'undying_decay']",1
+Slark,"['slark_pounce', 'slark_dark_pact']",1
+Dawnbreaker,"['dawnbreaker_converge', 'dawnbreaker_solar_guardian', 'dawnbreaker_fire_wreath', 'dawnbreaker_converge']",1
+Storm Spirit,"['storm_spirit_electric_vortex', 'storm_spirit_static_remnant', 'storm_spirit_static_remnant', 'storm_spirit_electric_vortex']",1
+Slark,"['slark_pounce', 'slark_pounce']",2
+Faceless Void,"['aghsfort_luna_eclipse', 'aghsfort_undying_flesh_golem', 'shivas_guard', 'aghsfort_juggernaut_omni_slash', 'aghsfort_undying_soul_rip', 'aghsfort_juggernaut_healing_ward', 'trap_room_phase_shift', 'aghsfort_luna_moon_glaive', 'aghsfort_luna_lucent_beam', 'aghsfort_void_spirit_aether_remnant', 'aghsfort_slark_pounce', 'aghsfort_slark_shadow_dance', 'mask_of_madness', 'orchid', 'aghsfort_slark_dark_pact', 'aghsfort_juggernaut_blade_fury', 'aghsfort_void_spirit_resonant_pulse', 'plus_high_five', 'aghsfort_void_spirit_astral_step', 'aghsfort_void_spirit_dissimilate', 'trap_room_sprint', 'aghsfort_luna_lunar_blessing', 'aghsfort_slark_essence_shift', 'aghsfort_undying_tombstone', 'aghsfort_juggernaut_blade_dance']",1
+Viper,"['viper_nethertoxin', 'viper_poison_attack', 'viper_nethertoxin']",1
+Dark Willow,"['aghsfort_phoenix_icarus_dive', 'aghsfort_undying_flesh_golem', 'dark_willow_bramble_maze', 'aghsfort_dawnbreaker_solar_guardian', 'dark_willow_bedlam', 'plus_high_five', 'guardian_greaves', 'aghsfort_phoenix_fire_spirits', 'aghsfort_undying_soul_rip', 'dark_willow_cursed_crown', 'dark_willow_shadow_realm', 'aghsfort_dawnbreaker_luminosity', 'dark_willow_terrorize', 'aghsfort_dawnbreaker_celestial_hammer', 'aghsfort_phoenix_sun_ray', 'aghsfort_undying_decay', 'aghsfort_trap_room_hookshot', 'mekansm', 'aghsfort_dawnbreaker_fire_wreath', 'aghsfort_phoenix_supernova', 'aghsfort_undying_tombstone', 'aghsfort_phoenix_sun_ray_toggle_move', 'aghsfort_dawnbreaker_converge']",1
+Bounty Hunter,"['bounty_hunter_shuriken_toss', 'bounty_hunter_jinada', 'bounty_hunter_wind_walk', 'bounty_hunter_shuriken_toss']",1
+Winter Wyvern,"['winter_wyvern_cold_embrace', 'winter_wyvern_arctic_burn', 'winter_wyvern_splinter_blast']",1
+Vengeful Spirit,"['vengefulspirit_magic_missile', 'vengefulspirit_magic_missile', 'vengefulspirit_wave_of_terror']",1
+Riki,"['riki_blink_strike', 'riki_tricks_of_the_trade']",1
+Legion Commander,"['plus_high_five', 'legion_commander_press_the_attack']",1
+Arc Warden,"['silver_edge', 'arc_warden_spark_wraith']",1
+Troll Warlord,"['troll_warlord_whirling_axes_melee', 'troll_warlord_whirling_axes_ranged']",1
+Drow Ranger,"['drow_ranger_wave_of_silence', 'drow_ranger_multishot', 'drow_ranger_multishot', 'drow_ranger_frost_arrows']",1
+Leshrac,"['leshrac_split_earth', 'leshrac_split_earth']",2
+Skywrath Mage,"['skywrath_mage_arcane_bolt', 'skywrath_mage_concussive_shot', 'skywrath_mage_concussive_shot']",1
+Razor,"['razor_plasma_field', 'razor_plasma_field']",1
+Ursa,"['diffusal_blade', 'ursa_overpower', 'ursa_enrage', 'ursa_earthshock', 'ursa_earthshock', 'diffusal_blade', 'ursa_overpower']",1
+Shadow Demon,"['shadow_demon_shadow_poison', 'shadow_demon_shadow_poison', 'shadow_demon_shadow_poison_release']",1
+Viper,"['viper_nethertoxin', 'viper_poison_attack']",1
+Necrophos,"['blink', 'necrolyte_death_pulse']",1
+Troll Warlord,"['troll_warlord_whirling_axes_ranged', 'troll_warlord_whirling_axes_ranged']",4
+Dark Seer,"['dark_seer_ion_shell', 'dark_seer_ion_shell']",1
+Outworld Destroyer,"['aghsfort_luna_eclipse', 'obsidian_destroyer_astral_imprisonment', 'aghsfort_undying_flesh_golem', 'guardian_greaves', 'void_spirit_resonant_pulse', 'aghsfort_omniknight_degen_aura', 'void_spirit_dissimilate', 'aghsfort_undying_soul_rip', 'aghsfort_luna_moon_glaive', 'aghsfort_luna_lucent_beam', 'blink', 'aghsfort_phoenix_sun_ray', 'satanic', 'aghsfort_omniknight_purification', 'mekansm', 'aghsfort_trap_room_meathook', 'aghsfort_phoenix_icarus_dive', 'meteor_hammer', 'void_spirit_astral_step', 'obsidian_destroyer_arcane_orb', 'aghsfort_omniknight_guardian_angel', 'refresher', 'aghsfort_phoenix_fire_spirits', 'aghsfort_omniknight_repel', 'aghsfort_luna_lunar_blessing', 'black_king_bar', 'abyssal_blade', 'aghsfort_undying_decay', 'obsidian_destroyer_sanity_eclipse', 'mango_orchard_toss_mango', 'aghsfort_phoenix_supernova', 'aghsfort_undying_tombstone', 'void_spirit_aether_remnant']",1
+Visage,"['visage_soul_assumption', 'visage_soul_assumption', 'visage_grave_chill']",1
+Ancient Apparition,"['ancient_apparition_ice_blast', 'ancient_apparition_ice_vortex', 'ancient_apparition_ice_blast']",1
+Slardar,"['slardar_slithereen_crush', 'slardar_slithereen_crush', 'slardar_amplify_damage']",1
+Mars,"['mars_arena_of_blood', 'mars_gods_rebuke', 'mars_spear']",1
+Tiny,"['tiny_toss', 'tiny_tree_grab']",1
+Void Spirit,"['void_spirit_dissimilate', 'void_spirit_aether_remnant', 'void_spirit_resonant_pulse']",1
+Spectre,"['spectre_spectral_dagger', 'spectre_spectral_dagger', 'spectre_haunt']",1
+Razor,"['razor_eye_of_the_storm', 'black_king_bar', 'razor_static_link', 'gungir']",1
+Centaur Warrunner,"['aghsfort_clinkz_skeleton_walk', 'aghsfort_luna_eclipse', 'aghsfort_clinkz_burning_barrage', 'trap_room_invuln', 'aghsfort_clinkz_searing_arrows', 'aghsfort_luna_moon_glaive', 'aghsfort_luna_lunar_blessing', 'aghsfort_luna_lucent_beam', 'aghsfort_clinkz_burning_army', 'mango_orchard_toss_mango']",1
+Razor,"['razor_eye_of_the_storm', 'razor_static_link', 'razor_plasma_field']",1
+Treant Protector,"['undying_tombstone', 'holy_locket', 'pudge_meat_hook', 'blink', 'undying_soul_rip', 'treant_living_armor', 'meteor_hammer', 'treant_leech_seed', 'treant_eyes_in_the_forest', 'treant_overgrowth', 'undying_flesh_golem', 'overwhelming_blink', 'treant_natures_grasp', 'undying_decay', 'blade_mail']",1
+Tusk,"['tusk_tag_team', 'tusk_tag_team']",1
+Bounty Hunter,"['bounty_hunter_wind_walk', 'bounty_hunter_shuriken_toss', 'bounty_hunter_jinada', 'bounty_hunter_jinada']",1
+Treant Protector,"['treant_natures_grasp', 'treant_living_armor', 'treant_living_armor', 'meteor_hammer', 'treant_leech_seed', 'treant_natures_grasp']",1
+Queen of Pain,"['queenofpain_sonic_wave', 'queenofpain_scream_of_pain', 'queenofpain_scream_of_pain', 'orchid', 'queenofpain_blink']",1
+Windranger,"['windrunner_shackleshot', 'windrunner_windrun']",1
+Templar Assassin,"['blink', 'templar_assassin_refraction', 'templar_assassin_meld', 'templar_assassin_refraction', 'templar_assassin_psionic_trap']",1
+Slardar,"['black_king_bar', 'slardar_slithereen_crush', 'slardar_sprint']",1
+Bounty Hunter,"['bounty_hunter_wind_walk', 'bounty_hunter_shuriken_toss', 'bounty_hunter_track']",1
+Undying,"['undying_tombstone', 'undying_decay', 'undying_soul_rip']",1
+Shadow Demon,"['shadow_demon_shadow_poison', 'shadow_demon_shadow_poison_release']",1
+Vengeful Spirit,"['aghsfort_clinkz_skeleton_walk', 'aghsfort_clinkz_burning_barrage', 'hurricane_pike', 'satanic', 'aghsfort_clinkz_burning_army', 'aghsfort_trap_room_hookshot']",1
+Jakiro,"['jakiro_liquid_fire', 'jakiro_dual_breath', 'jakiro_dual_breath', 'jakiro_liquid_fire']",1
+Centaur Warrunner,"['centaur_hoof_stomp', 'centaur_double_edge', 'centaur_hoof_stomp']",1
+Sniper,"['hurricane_pike', 'silver_edge', 'sniper_assassinate']",1
+Timbersaw,"['shredder_whirling_death', 'shredder_whirling_death']",1
+Gyrocopter,"['gyrocopter_homing_missile', 'gyrocopter_homing_missile', 'gyrocopter_rocket_barrage']",1
+Doom,"['doom_bringer_infernal_blade', 'blink', 'satyr_hellcaller_shockwave', 'enraged_wildkin_tornado', 'satyr_soulstealer_mana_burn']",1
+Enchantress,"['enchantress_enchant', 'enchantress_impetus']",1
+Oracle,"['oracle_purifying_flames', 'oracle_fortunes_end']",1
+Doom,"['doom_bringer_scorched_earth', 'doom_bringer_infernal_blade', 'satyr_soulstealer_mana_burn']",1
+Wraith King,"['skeleton_king_hellfire_blast', 'skeleton_king_hellfire_blast']",2
+Puck,"['puck_illusory_orb', 'puck_ethereal_jaunt', 'puck_illusory_orb', 'blink', 'puck_dream_coil']",1
+Weaver,"['weaver_shukuchi', 'weaver_geminate_attack']",1
+Monkey King,"['monkey_king_mischief', 'monkey_king_tree_dance']",2
+Dark Willow,"['dark_willow_bedlam', 'dark_willow_bramble_maze', 'dark_willow_bedlam']",1
+Sniper,"['mask_of_madness', 'sniper_shrapnel']",1
+Kunkka,"['kunkka_tidebringer', 'kunkka_torrent', 'kunkka_x_marks_the_spot', 'kunkka_torrent']",1
+Phoenix,"['phoenix_fire_spirits', 'phoenix_icarus_dive']",1
+Timbersaw,"['lotus_orb', 'shredder_timber_chain']",1
+Jakiro,"['force_staff', 'jakiro_ice_path', 'force_staff', 'jakiro_dual_breath', 'cyclone']",1
+Naga Siren,"['naga_siren_mirror_image', 'naga_siren_mirror_image']",2
+Io,"['wisp_overcharge', 'wisp_relocate', 'wisp_tether_break']",1
+Zeus,"['zuus_arc_lightning', 'zuus_arc_lightning']",1
+Anti-Mage,"['bfury', 'antimage_counterspell', 'manta', 'antimage_blink', 'antimage_blink']",1
+Brewmaster,"['brewmaster_thunder_clap', 'brewmaster_cinder_brew']",1
+Gyrocopter,"['gyrocopter_rocket_barrage', 'gyrocopter_flak_cannon']",2
+Phantom Assassin,"['phantom_assassin_phantom_strike', 'phantom_assassin_stifling_dagger', 'phantom_assassin_blur', 'phantom_assassin_phantom_strike']",1
+Ogre Magi,"['ogre_magi_ignite', 'ogre_magi_fireblast', 'ogre_magi_fireblast', 'ogre_magi_ignite', 'plus_high_five']",1
+Keeper of the Light,"['keeper_of_the_light_illuminate', 'keeper_of_the_light_chakra_magic', 'keeper_of_the_light_chakra_magic', 'keeper_of_the_light_radiant_bind']",1
+Dawnbreaker,"['dawnbreaker_fire_wreath', 'dawnbreaker_converge']",1
+Grimstroke,"['grimstroke_dark_artistry', 'grimstroke_dark_artistry']",2
+Disruptor,"['disruptor_static_storm', 'disruptor_kinetic_field', 'disruptor_kinetic_field', 'disruptor_thunder_strike', 'disruptor_glimpse']",1
+Pudge,"['pudge_meat_hook', 'pudge_dismember']",1
+Weaver,"['weaver_geminate_attack', 'weaver_shukuchi', 'weaver_shukuchi', 'weaver_geminate_attack']",1
+Clinkz,"['clinkz_strafe', 'clinkz_searing_arrows']",1
+Puck,"['puck_phase_shift', 'puck_ethereal_jaunt', 'puck_illusory_orb', 'puck_illusory_orb', 'puck_waning_rift']",1
+Dawnbreaker,"['aghsfort_gyrocopter_flak_cannon', 'aghsfort_gyrocopter_call_down', 'aghsfort_gyrocopter_rocket_barrage', 'aghsfort_gyrocopter_homing_missile']",1
+Leshrac,"['leshrac_pulse_nova', 'leshrac_lightning_storm', 'leshrac_lightning_storm']",1
+Underlord,"['abyssal_underlord_firestorm', 'abyssal_underlord_firestorm']",3
+Tidehunter,"['tidehunter_gush', 'tidehunter_anchor_smash', 'tidehunter_anchor_smash', 'tidehunter_gush']",1
+Dark Willow,"['dark_willow_bramble_maze', 'dark_willow_shadow_realm']",1
+Drow Ranger,"['drow_ranger_multishot', 'drow_ranger_wave_of_silence']",1
+Treant Protector,"['treant_leech_seed', 'treant_natures_grasp', 'treant_living_armor']",1
+Undying,"['plus_guild_banner', 'undying_tombstone', 'plus_high_five', 'refresher', 'veil_of_discord', 'aghsfort_gyrocopter_flak_cannon', 'aghsfort_gyrocopter_call_down', 'holy_locket', 'dagon_3', 'undying_flesh_golem', 'overwhelming_blink', 'blink', 'ghost', 'ethereal_blade', 'undying_soul_rip', 'undying_decay', 'mango_orchard_toss_mango', 'aghsfort_gyrocopter_rocket_barrage', 'blade_mail', 'aghsfort_gyrocopter_homing_missile']",1
+Anti-Mage,"['antimage_blink', 'plus_high_five']",1
+Invoker,"['invoker_forge_spirit', 'invoker_invoke', 'invoker_ghost_walk', 'invoker_sun_strike', 'invoker_invoke']",1
+Kunkka,"['kunkka_x_marks_the_spot', 'kunkka_tidebringer']",1
+Dark Willow,"['blink', 'dark_willow_cursed_crown', 'cyclone', 'dark_willow_bramble_maze', 'dark_willow_cursed_crown']",1
+Lifestealer,"['life_stealer_rage', 'life_stealer_rage']",2
+Snapfire,"['snapfire_lil_shredder', 'snapfire_scatterblast', 'snapfire_firesnap_cookie', 'snapfire_firesnap_cookie']",1
+Phantom Assassin,"['phantom_assassin_stifling_dagger', 'phantom_assassin_stifling_dagger']",4
+Snapfire,"['broodmother_insatiable_hunger', 'ancient_apparition_ice_blast', 'faceless_void_time_walk_reverse', 'ancient_apparition_cold_feet', 'faceless_void_time_walk', 'faceless_void_chronosphere', 'broodmother_spawn_spiderlings', 'faceless_void_time_dilation']",1
+Ogre Magi,"['ogre_magi_fireblast', 'ogre_magi_ignite', 'veil_of_discord', 'ogre_magi_ignite', 'ogre_magi_fireblast']",1
+Bane,"['bane_brain_sap', 'bane_nightmare', 'bane_nightmare']",1
+Bristleback,"['bristleback_quill_spray', 'bristleback_viscous_nasal_goo', 'bristleback_viscous_nasal_goo', 'bristleback_quill_spray']",2
+Lich,"['lich_frost_shield', 'lich_sinister_gaze']",1
+Riki,"['riki_smoke_screen', 'diffusal_blade']",1
+Ember Spirit,"['ember_spirit_searing_chains', 'ember_spirit_searing_chains', 'ember_spirit_sleight_of_fist', 'cyclone']",1
+Ogre Magi,"['ogre_magi_ignite', 'ogre_magi_ignite']",1
+Rubick,"['puck_illusory_orb', 'rubick_fade_bolt', 'dazzle_shadow_wave', 'rubick_spell_steal', 'alchemist_chemical_rage', 'rubick_fade_bolt', 'rubick_empty2', 'shadow_shaman_voodoo']",1
+Lion,"['plus_high_five', 'lion_impale']",1
+Abaddon,"['abaddon_aphotic_shield', 'abaddon_aphotic_shield']",1
+Pugna,"['pugna_life_drain', 'pugna_decrepify', 'pugna_nether_blast']",1
+Phoenix,"['phoenix_icarus_dive', 'phoenix_supernova']",1
+Phantom Lancer,"['phantom_lancer_spirit_lance', 'phantom_lancer_spirit_lance']",1
+Weaver,"['weaver_shukuchi', 'weaver_shukuchi']",2
+Storm Spirit,"['storm_spirit_static_remnant', 'storm_spirit_static_remnant']",2
+Terrorblade,"['terrorblade_reflection', 'terrorblade_reflection']",2
+Io,"['wisp_overcharge', 'wisp_tether']",1
+Huskar,"['huskar_life_break', 'huskar_life_break']",1
+Visage,"['pipe', 'visage_grave_chill']",1
+Bloodseeker,"['bloodseeker_bloodrage', 'bloodseeker_blood_bath', 'bloodseeker_bloodrage']",1
+Marci,"['aghsfort_phoenix_icarus_dive', 'aghsfort_phoenix_fire_spirits', 'aghsfort_phoenix_sun_ray_stop', 'aghsfort_phoenix_sun_ray', 'aghsfort_phoenix_supernova', 'aghsfort_phoenix_sun_ray_toggle_move']",1
+Weaver,"['weaver_geminate_attack', 'weaver_shukuchi', 'weaver_geminate_attack', 'weaver_shukuchi']",1
+Morphling,"['troll_warlord_fervor', 'morphling_waveform', 'troll_warlord_whirling_axes_ranged', 'morphling_waveform']",1
+Magnus,"['magnataur_shockwave', 'magnataur_empower', 'magnataur_skewer']",1
+Grimstroke,"['grimstroke_dark_artistry', 'grimstroke_spirit_walk', 'grimstroke_ink_creature', 'grimstroke_dark_artistry']",1
+Dragon Knight,"['dragon_knight_breathe_fire', 'dragon_knight_dragon_tail', 'dragon_knight_elder_dragon_form', 'dragon_knight_dragon_tail']",1
+Ogre Magi,"['ogre_magi_ignite', 'ogre_magi_fireblast']",1
+Enchantress,"['enchantress_impetus', 'enchantress_impetus']",1
+Oracle,"['oracle_fates_edict', 'oracle_purifying_flames', 'oracle_fortunes_end', 'oracle_fortunes_end', 'oracle_purifying_flames']",1
+Shadow Fiend,"['mask_of_madness', 'nevermore_shadowraze1', 'nevermore_shadowraze2', 'nevermore_shadowraze2']",1
+Sven,"['sven_warcry', 'mask_of_madness']",1
+Legion Commander,"['legion_commander_overwhelming_odds', 'legion_commander_overwhelming_odds']",1
+Ancient Apparition,"['ancient_apparition_chilling_touch', 'ancient_apparition_chilling_touch', 'ancient_apparition_cold_feet']",1
+Skywrath Mage,"['skywrath_mage_arcane_bolt', 'skywrath_mage_concussive_shot', 'skywrath_mage_arcane_bolt']",1
+Broodmother,"['viper_nethertoxin', 'viper_viper_strike']",1
+Earth Spirit,"['earth_spirit_boulder_smash', 'earth_spirit_rolling_boulder']",1
+Lion,"['lion_mana_drain', 'blink', 'lion_impale', 'blink', 'lion_finger_of_death', 'lion_impale', 'lion_voodoo']",1
+Zeus,"['zuus_arc_lightning', 'zuus_lightning_bolt', 'zuus_lightning_bolt', 'zuus_thundergods_wrath', 'zuus_arc_lightning']",2
+Earthshaker,"['blink', 'earthshaker_enchant_totem', 'earthshaker_fissure']",1
+Elder Titan,"['elder_titan_ancestral_spirit', 'elder_titan_echo_stomp']",1
+Snapfire,"['force_staff', 'snapfire_scatterblast', 'snapfire_firesnap_cookie', 'snapfire_scatterblast']",1
+Luna,"['luna_lucent_beam', 'mask_of_madness']",2
+Oracle,"['oracle_fortunes_end', 'oracle_fates_edict']",1
+Witch Doctor,"['witch_doctor_paralyzing_cask', 'witch_doctor_paralyzing_cask']",1
+Jakiro,"['jakiro_dual_breath', 'jakiro_liquid_fire', 'jakiro_dual_breath', 'jakiro_liquid_fire']",1
+Batrider,"['batrider_firefly', 'batrider_sticky_napalm']",1
+Beastmaster,"['beastmaster_wild_axes', 'beastmaster_wild_axes']",1
+Puck,"['puck_phase_shift', 'puck_ethereal_jaunt', 'puck_dream_coil', 'puck_phase_shift', 'puck_ethereal_jaunt', 'puck_waning_rift', 'puck_illusory_orb']",1
+Pugna,"['pugna_nether_blast', 'pugna_nether_blast']",2
+Tinker,"['tinker_heat_seeking_missile', 'tinker_laser', 'tinker_heat_seeking_missile', 'tinker_keen_teleport']",1
+Shadow Shaman,"['shadow_shaman_voodoo', 'shadow_shaman_shackles', 'shadow_shaman_ether_shock']",1
+Keeper of the Light,"['aghsfort_sniper_take_aim', 'aghsfort_undying_flesh_golem', 'dark_willow_bedlam', 'aghsfort_lich_frost_shield', 'hurricane_pike', 'aghsfort_lich_frost_nova', 'aghsfort_undying_soul_rip', 'dark_willow_shadow_realm', 'aghsfort_lich_chain_frost', 'aghsfort_clinkz_skeletal_colossus', 'aghsfort_trap_room_hookshot', 'mekansm', 'cyclone', 'aghsfort_clinkz_skeleton_walk', 'aghsfort_sniper_shrapnel', 'aghsfort_clinkz_burning_barrage', 'dark_willow_bramble_maze', 'aghsfort_sniper_headshot', 'aghsfort_lich_sinister_gaze', 'dark_willow_cursed_crown', 'dark_willow_terrorize', 'aghsfort_undying_decay', 'aghsfort_clinkz_burning_army', 'mango_orchard_toss_mango', 'aghsfort_undying_tombstone']",1
+Pugna,"['pugna_decrepify', 'pugna_life_drain', 'pugna_nether_blast']",1
+Bloodseeker,"['aghsfort_magnataur_skewer', 'aghsfort_magnataur_empower', 'aghsfort_magnataur_reverse_polarity', 'guardian_greaves', 'aghsfort_magnataur_shockwave', 'mekansm', 'aghsfort_special_magnataur_reverse_polarity_polarity']",1
+Magnus,"['magnataur_empower', 'magnataur_empower', 'blink']",1
+Mars,"['mars_spear', 'mars_gods_rebuke']",2
+Invoker,"['invoker_invoke', 'invoker_invoke']",1
+Silencer,"['silencer_curse_of_the_silent', 'silencer_glaives_of_wisdom', 'silencer_global_silence', 'silencer_glaives_of_wisdom', 'silencer_curse_of_the_silent']",1
+Phantom Assassin,"['phantom_assassin_stifling_dagger', 'phantom_assassin_stifling_dagger', 'phantom_assassin_phantom_strike']",1
+Shadow Demon,"['aghsfort_clinkz_skeleton_walk', 'aghsfort2_drow_ranger_multishot', 'aghsfort_clinkz_burning_barrage', 'aghsfort2_drow_ranger_frost_arrows', 'hurricane_pike', 'veil_of_discord', 'aghsfort_lina_laguna_blade', 'aghsfort_lina_dragon_slave', 'aghsfort_lina_fiery_soul', 'ethereal_blade', 'aghsfort_clinkz_burning_army', 'mango_orchard_toss_mango', 'aghsfort_lina_light_strike_array', 'orchid', 'aghsfort2_drow_ranger_wave_of_silence', 'aghsfort2_drow_ranger_marksmanship']",1
+Witch Doctor,"['witch_doctor_death_ward', 'witch_doctor_paralyzing_cask', 'witch_doctor_maledict', 'glimmer_cape', 'witch_doctor_paralyzing_cask']",1
+Necrophos,"['aghsfort_luna_eclipse', 'aghsfort_undying_flesh_golem', 'solar_crest', 'hurricane_pike', 'aghsfort_undying_soul_rip', 'trap_room_phase_shift', 'aghsfort_luna_moon_glaive', 'aghsfort_luna_lucent_beam', 'mask_of_madness', 'satanic', 'aghsfort_trap_room_hookshot', 'manta', 'aghsfort2_drow_ranger_multishot', 'aghsfort2_drow_ranger_frost_arrows', 'aghsfort_luna_lunar_blessing', 'mango_orchard_toss_mango', 'aghsfort2_drow_ranger_wave_of_silence', 'aghsfort_undying_tombstone', 'aghsfort2_drow_ranger_marksmanship']",1
+Templar Assassin,"['templar_assassin_meld', 'templar_assassin_refraction']",1
+Storm Spirit,"['aghsfort_undying_flesh_golem', 'storm_spirit_static_remnant', 'plus_high_five', 'aghsfort_undying_decay', 'storm_spirit_ball_lightning', 'trap_room_invuln', 'mango_orchard_toss_mango', 'aghsfort_undying_tombstone', 'aghsfort_undying_soul_rip', 'aghsfort_trap_room_meathook']",1
+Drow Ranger,"['invis_sword', 'drow_ranger_wave_of_silence', 'drow_ranger_multishot']",1
+Zeus,"['zuus_arc_lightning', 'zuus_lightning_bolt', 'zuus_arc_lightning']",1
+Elder Titan,"['plus_guild_banner', 'elder_titan_ancestral_spirit']",1
+Meepo,"['meepo_earthbind', 'meepo_poof']",1
+Legion Commander,"['blade_mail', 'legion_commander_press_the_attack', 'legion_commander_duel', 'blink', 'legion_commander_press_the_attack', 'blink']",1
+Tiny,"['tiny_tree_grab', 'tiny_avalanche']",1
+Arc Warden,"['arc_warden_flux', 'arc_warden_spark_wraith', 'arc_warden_spark_wraith']",1
+Batrider,"['batrider_sticky_napalm', 'batrider_sticky_napalm']",2
+Treant Protector,"['plus_high_five', 'treant_natures_grasp', 'treant_natures_grasp']",1
+Troll Warlord,"['troll_warlord_whirling_axes_melee', 'troll_warlord_whirling_axes_ranged', 'troll_warlord_whirling_axes_ranged']",1
+Nature's Prophet,"['furion_teleportation', 'furion_sprout']",1
+Hoodwink,"['hoodwink_sharpshooter', 'hoodwink_acorn_shot']",1
+Keeper of the Light,"['keeper_of_the_light_will_o_wisp', 'force_staff', 'keeper_of_the_light_radiant_bind', 'keeper_of_the_light_spirit_form', 'keeper_of_the_light_spirit_form', 'keeper_of_the_light_spirit_form_illuminate', 'keeper_of_the_light_blinding_light', 'keeper_of_the_light_chakra_magic']",1
+Zeus,"['zuus_lightning_bolt', 'zuus_arc_lightning', 'zuus_lightning_bolt', 'zuus_arc_lightning', 'zuus_static_field', 'bloodstone']",1
+Lich,"['lich_frost_nova', 'plus_high_five']",1
+Night Stalker,"['night_stalker_hunter_in_the_night', 'night_stalker_void']",1
+Abaddon,"['abaddon_death_coil', 'abaddon_aphotic_shield', 'abaddon_death_coil']",1
+Enchantress,"['aghsfort_phoenix_icarus_dive', 'black_king_bar', 'aghsfort_phoenix_sun_ray', 'plus_high_five', 'refresher', 'trap_room_invuln', 'aghsfort_sand_king_epicenter', 'guardian_greaves', 'aghsfort_sand_king_sand_storm', 'mango_orchard_toss_mango', 'trap_room_sprint', 'mekansm', 'aghsfort_phoenix_fire_spirits', 'veil_of_discord', 'cyclone', 'shivas_guard', 'aghsfort_phoenix_supernova', 'aghsfort_phoenix_sun_ray_toggle_move', 'aghsfort_sand_king_burrowstrike', 'trap_room_phase_shift', 'aghsfort_trap_room_meathook']",1
+Clinkz,"['clinkz_strafe', 'clinkz_death_pact']",1
+Venomancer,"['venomancer_venomous_gale', 'venomancer_plague_ward', 'venomancer_plague_ward']",1
+Morphling,"['morphling_waveform', 'morphling_adaptive_strike_agi']",1
+Templar Assassin,"['templar_assassin_meld', 'templar_assassin_refraction', 'templar_assassin_psionic_trap', 'templar_assassin_trap']",1
+Wraith King,"['skeleton_king_hellfire_blast', 'skeleton_king_vampiric_aura']",1
+Phantom Assassin,"['phantom_assassin_phantom_strike', 'phantom_assassin_stifling_dagger']",2
+Dazzle,"['aghsfort_special_undying_consume_zombies', 'aghsfort_undying_flesh_golem', 'aghsfort_lich_frost_shield', 'guardian_greaves', 'mjollnir', 'pipe', 'aghsfort_undying_soul_rip', 'aghsfort_phoenix_sun_ray', 'satanic', 'aghsfort_lich_chain_frost', 'aghsfort_trap_room_hookshot', 'mekansm', 'cyclone', 'aghsfort_phoenix_sun_ray_toggle_move', 'aghsfort_trap_room_meathook', 'aghsfort_phoenix_icarus_dive', 'aghsfort2_drow_ranger_multishot', 'aghsfort_snapfire_scatterblast', 'aghsfort2_drow_ranger_frost_arrows', 'plus_high_five', 'trap_room_invuln', 'crimson_guard', 'aghsfort_phoenix_fire_spirits', 'aghsfort_lich_sinister_gaze', 'nyx_assassin_impale', 'aghsfort_snapfire_firesnap_cookie', 'aghsfort_undying_decay', 'mango_orchard_toss_mango', 'aghsfort2_drow_ranger_wave_of_silence', 'aghsfort_phoenix_supernova', 'aghsfort_undying_tombstone', 'aghsfort2_drow_ranger_marksmanship', 'aghsfort_snapfire_lil_shredder', 'aghsfort_snapfire_mortimer_kisses']",1
+Underlord,"['abyssal_underlord_firestorm', 'abyssal_underlord_dark_rift', 'abyssal_underlord_firestorm', 'abyssal_underlord_pit_of_malice']",1
+Keeper of the Light,"['keeper_of_the_light_illuminate', 'keeper_of_the_light_chakra_magic']",1
+Dark Seer,"['dark_seer_surge', 'dark_seer_ion_shell']",1
+Ancient Apparition,"['ancient_apparition_chilling_touch', 'ancient_apparition_chilling_touch']",3
+Earthshaker,"['earthshaker_enchant_totem', 'earthshaker_enchant_totem']",1
+Bloodseeker,"['bloodseeker_blood_bath', 'bloodseeker_bloodrage']",1
+Keeper of the Light,"['keeper_of_the_light_illuminate', 'keeper_of_the_light_spirit_form', 'keeper_of_the_light_spirit_form_illuminate', 'keeper_of_the_light_spirit_form', 'keeper_of_the_light_blinding_light', 'keeper_of_the_light_chakra_magic', 'keeper_of_the_light_illuminate']",1
+Ogre Magi,"['heavens_halberd', 'dagon_3', 'ogre_magi_ignite', 'ogre_magi_bloodlust', 'ogre_magi_fireblast', 'ogre_magi_ignite', 'ogre_magi_bloodlust', 'blink']",1
+Tusk,"['tusk_snowball', 'tusk_tag_team', 'tusk_tag_team']",1
+Dragon Knight,"['aghsfort_luna_moon_glaive', 'aghsfort_luna_lunar_blessing', 'aghsfort_luna_lucent_beam', 'aghsfort_luna_eclipse', 'mask_of_madness', 'mango_orchard_toss_mango', 'hurricane_pike', 'manta']",1
+Oracle,"['oracle_purifying_flames', 'oracle_fortunes_end', 'oracle_purifying_flames']",1
+Puck,"['puck_phase_shift', 'puck_ethereal_jaunt', 'puck_waning_rift', 'puck_illusory_orb', 'puck_ethereal_jaunt']",1
+Axe,"['blink', 'axe_berserkers_call']",1
+Omniknight,"['omniknight_purification', 'omniknight_repel', 'omniknight_purification']",1
+Wraith King,"['aghsfort_phoenix_icarus_dive', 'aghsfort2_drow_ranger_multishot', 'sandking_burrowstrike', 'aghsfort_undying_flesh_golem', 'aghsfort2_drow_ranger_frost_arrows', 'plus_high_five', 'trap_room_invuln', 'aghsfort_phoenix_fire_spirits', 'aghsfort_undying_soul_rip', 'bloodthorn', 'sandking_sand_storm', 'black_king_bar', 'abyssal_blade', 'blink', 'aghsfort_phoenix_sun_ray_stop', 'sandking_epicenter', 'aghsfort_phoenix_sun_ray', 'ethereal_blade', 'aghsfort_undying_decay', 'mango_orchard_toss_mango', 'aghsfort_trap_room_hookshot', 'orchid', 'aghsfort2_drow_ranger_wave_of_silence', 'cyclone', 'aghsfort_phoenix_supernova', 'aghsfort_undying_tombstone', 'aghsfort2_drow_ranger_marksmanship', 'aghsfort_phoenix_sun_ray_toggle_move', 'aghsfort_trap_room_meathook']",1
+Invoker,"['invoker_invoke', 'invoker_forge_spirit', 'invoker_forge_spirit']",1
+Spirit Breaker,"['spirit_breaker_charge_of_darkness', 'spirit_breaker_charge_of_darkness']",3
+Io,"['wisp_tether_break', 'wisp_spirits', 'wisp_overcharge', 'mekansm', 'wisp_tether']",1
+Invoker,"['force_staff', 'hurricane_pike', 'aghsfort_phoenix_sun_ray', 'aghsfort_clinkz_skeletal_colossus', 'eternal_shroud', 'aghsfort_phoenix_sun_ray_toggle_move', 'aghsfort_clinkz_skeleton_walk', 'aghsfort_clinkz_burning_barrage', 'aghsfort2_drow_ranger_frost_arrows', 'aghsfort_clinkz_searing_arrows', 'aghsfort_luna_lunar_blessing', 'aghsfort_undying_decay', 'aghsfort_phoenix_supernova', 'aghsfort_undying_tombstone', 'aghsfort2_drow_ranger_marksmanship', 'aghsfort_luna_eclipse', 'aghsfort_undying_flesh_golem', 'aghsfort_undying_soul_rip', 'aghsfort_luna_lucent_beam', 'mask_of_madness', 'aghsfort_trap_room_hookshot', 'aghsfort_phoenix_icarus_dive', 'aghsfort2_drow_ranger_multishot', 'plus_high_five', 'aghsfort_phoenix_fire_spirits', 'veil_of_discord', 'aghsfort_clinkz_burning_army', 'mango_orchard_toss_mango', 'aghsfort2_drow_ranger_wave_of_silence']",1
+Enigma,"['enigma_midnight_pulse', 'enigma_malefice']",1
+Pudge,"['plus_high_five', 'pudge_meat_hook', 'pudge_meat_hook']",1
+Shadow Fiend,"['aghsfort_clinkz_skeleton_walk', 'aghsfort2_drow_ranger_multishot', 'aghsfort_templar_assassin_psi_blades', 'aghsfort_clinkz_burning_barrage', 'aghsfort2_drow_ranger_frost_arrows', 'hurricane_pike', 'mirana_starfall', 'aghsfort_kunkka_tidebringer', 'aghsfort_kunkka_x_marks_the_spot', 'aghsfort_templar_assassin_refraction', 'trap_room_phase_shift', 'wind_waker', 'aghsfort_templar_assassin_meld', 'mirana_invis', 'mirana_arrow', 'aghsfort_clinkz_burning_army', 'mango_orchard_toss_mango', 'mirana_leap', 'aghsfort_trap_room_hookshot', 'aghsfort_kunkka_torrent', 'aghsfort2_drow_ranger_wave_of_silence', 'manta', 'aghsfort2_drow_ranger_marksmanship', 'aghsfort_kunkka_ghostship']",1
+Clockwerk,"['rattletrap_battery_assault', 'rattletrap_rocket_flare']",1
+Mirana,"['mirana_leap', 'mirana_arrow', 'mirana_starfall']",1
+Razor,"['aghsfort2_drow_ranger_multishot', 'swift_blink', 'hurricane_pike', 'blink', 'satanic', 'aghsfort2_drow_ranger_wave_of_silence', 'manta', 'aghsfort2_drow_ranger_marksmanship', 'aghsfort_trap_room_meathook']",1
+Tusk,"['tusk_ice_shards', 'tusk_walrus_punch', 'tusk_tag_team']",1
+Mirana,"['mirana_starfall', 'mirana_starfall', 'mirana_arrow', 'mirana_leap', 'spirit_vessel']",1
+Chen,"['chen_holy_persuasion', 'chen_penitence']",1
+Viper,"['viper_poison_attack', 'viper_nethertoxin']",1
+Tiny,"['tiny_avalanche', 'tiny_tree_grab']",1
+Broodmother,"['broodmother_silken_bola', 'broodmother_spin_web']",1
+Witch Doctor,"['witch_doctor_maledict', 'witch_doctor_paralyzing_cask', 'witch_doctor_maledict', 'witch_doctor_paralyzing_cask']",1
+Shadow Demon,"['shadow_demon_soul_catcher', 'shadow_demon_shadow_poison', 'shadow_demon_disruption', 'shadow_demon_soul_catcher']",1
+Monkey King,"['monkey_king_tree_dance', 'monkey_king_tree_dance']",1
+Dark Seer,"['dark_seer_wall_of_replica', 'dark_seer_vacuum', 'dark_seer_ion_shell', 'dark_seer_wall_of_replica']",1
+Medusa,"['aghsfort_clinkz_skeleton_walk', 'aghsfort_clinkz_burning_barrage', 'aghsfort_omniknight_guardian_angel', 'crimson_guard', 'pipe', 'aghsfort_omniknight_degen_aura', 'shivas_guard', 'aghsfort_omniknight_repel', 'trap_room_phase_shift', 'aghsfort_special_omniknight_guardian_angel_single_target', 'aghsfort_clinkz_burning_army', 'aghsfort_omniknight_purification', 'mango_orchard_toss_mango', 'aghsfort_trap_room_hookshot']",1
+Legion Commander,"['legion_commander_press_the_attack', 'legion_commander_press_the_attack']",1
+Riki,"['aghsfort_sniper_take_aim', 'aghsfort_sniper_shrapnel', 'diffusal_blade', 'riki_smoke_screen', 'aghsfort_sniper_headshot', 'hurricane_pike', 'trap_room_sprint', 'mjollnir', 'nullifier', 'abyssal_blade', 'aghsfort_sniper_assassinate', 'riki_tricks_of_the_trade', 'satanic', 'mango_orchard_toss_mango', 'riki_blink_strike', 'cyclone']",1
+Tidehunter,"['tidehunter_gush', 'tidehunter_anchor_smash', 'tidehunter_anchor_smash']",2
+Doom,"['doom_bringer_devour', 'doom_bringer_devour', 'doom_bringer_infernal_blade']",1
+Slark,"['aghsfort_winter_wyvern_cold_embrace', 'aghsfort_clinkz_skeleton_walk', 'aghsfort_winter_wyvern_winters_curse', 'aghsfort_clinkz_burning_barrage', 'aghsfort_undying_flesh_golem', 'aghsfort_winter_wyvern_arctic_burn', 'aghsfort_clinkz_searing_arrows', 'aghsfort_gyrocopter_flak_cannon', 'aghsfort_gyrocopter_call_down', 'aghsfort_undying_soul_rip', 'aghsfort_undying_decay', 'aghsfort_clinkz_burning_army', 'mango_orchard_toss_mango', 'aghsfort_undying_tombstone', 'aghsfort_winter_wyvern_splinter_blast', 'aghsfort_gyrocopter_homing_missile']",1
+Disruptor,"['disruptor_kinetic_field', 'disruptor_glimpse', 'disruptor_thunder_strike', 'disruptor_static_storm', 'glimmer_cape', 'disruptor_kinetic_field', 'disruptor_thunder_strike']",1
+Lion,"['lion_impale', 'lion_mana_drain', 'lion_impale', 'lion_mana_drain']",1
+Queen of Pain,"['queenofpain_shadow_strike', 'queenofpain_shadow_strike', 'queenofpain_blink']",1
+Arc Warden,"['arc_warden_spark_wraith', 'arc_warden_tempest_double']",1
+Legion Commander,"['legion_commander_duel', 'legion_commander_press_the_attack', 'legion_commander_duel', 'legion_commander_overwhelming_odds']",1
+Anti-Mage,"['bfury', 'antimage_blink', 'antimage_blink']",1
+Sand King,"['aghsfort_undying_flesh_golem', 'plus_high_five', 'crimson_guard', 'pipe', 'aghsfort_undying_soul_rip', 'bloodthorn', 'nullifier', 'aghsfort_undying_decay', 'mango_orchard_toss_mango', 'orchid', 'aghsfort_undying_tombstone']",1
+Pudge,"['blink', 'pudge_dismember']",1
+Faceless Void,"['faceless_void_time_walk', 'hand_of_midas', 'mask_of_madness', 'faceless_void_time_walk', 'faceless_void_chronosphere']",1
+Lone Druid,"['lone_druid_spirit_bear', 'lone_druid_spirit_bear']",1
+Bristleback,"['bristleback_viscous_nasal_goo', 'bristleback_viscous_nasal_goo', 'bristleback_quill_spray']",1
+Luna,"['luna_lucent_beam', 'luna_lucent_beam']",2
+Dark Willow,"['dark_willow_bramble_maze', 'dark_willow_bramble_maze', 'dark_willow_shadow_realm']",1
+Tinker,"['shivas_guard', 'blink', 'plus_high_five', 'tinker_laser', 'tinker_heat_seeking_missile']",1
+Queen of Pain,"['queenofpain_shadow_strike', 'queenofpain_shadow_strike']",2
+Venomancer,"['venomancer_venomous_gale', 'venomancer_venomous_gale']",1
+Witch Doctor,"['witch_doctor_paralyzing_cask', 'spirit_vessel']",1
+Timbersaw,"['shredder_timber_chain', 'shredder_whirling_death', 'shredder_timber_chain']",1
+Spectre,"['spectre_haunt', 'spectre_spectral_dagger', 'diffusal_blade']",1
+Invoker,"['invoker_sun_strike', 'invoker_invoke', 'invoker_emp', 'invoker_invoke', 'invoker_ghost_walk', 'invoker_sun_strike']",1
+Crystal Maiden,"['crystal_maiden_frostbite', 'crystal_maiden_crystal_nova']",1
+Venomancer,"['spirit_vessel', 'venomancer_plague_ward', 'venomancer_venomous_gale', 'spirit_vessel', 'venomancer_plague_ward']",1
+Pangolier,"['pangolier_shield_crash', 'pangolier_shield_crash']",3
+Dragon Knight,"['dragon_knight_breathe_fire', 'dragon_knight_breathe_fire']",1
+Necrophos,"['holy_locket', 'necrolyte_reapers_scythe', 'necrolyte_death_pulse', 'necrolyte_death_pulse']",1
+Lion,"['lion_voodoo', 'lion_finger_of_death', 'lion_mana_drain', 'lion_impale']",1
+Crystal Maiden,"['crystal_maiden_crystal_nova', 'crystal_maiden_frostbite', 'crystal_maiden_crystal_nova', 'force_staff']",1
+Clockwerk,"['rattletrap_battery_assault', 'rattletrap_power_cogs', 'rattletrap_battery_assault']",1
+Juggernaut,"['juggernaut_blade_fury', 'juggernaut_blade_fury']",3
+Anti-Mage,"['antimage_blink', 'antimage_blink', 'antimage_counterspell']",1
+Treant Protector,"['treant_leech_seed', 'treant_natures_grasp']",1
+Tinker,"['tinker_heat_seeking_missile', 'tinker_laser', 'tinker_laser', 'tinker_heat_seeking_missile']",1
+Sand King,"['sandking_sand_storm', 'sandking_burrowstrike']",2
+Pugna,"['aghsfort_lich_frost_shield', 'aghsfort_lich_frost_nova', 'aghsfort_gyrocopter_flak_cannon', 'aghsfort_gyrocopter_call_down', 'blink', 'aghsfort_lich_chain_frost', 'manta', 'aghsfort_gyrocopter_rocket_barrage', 'cyclone', 'aghsfort_clinkz_skeleton_walk', 'aghsfort2_drow_ranger_multishot', 'aghsfort_clinkz_burning_barrage', 'aghsfort_clinkz_searing_arrows', 'aghsfort_lich_sinister_gaze', 'black_king_bar', 'aghsfort_clinkz_burning_army', 'mango_orchard_toss_mango', 'aghsfort2_drow_ranger_marksmanship', 'aghsfort_gyrocopter_homing_missile']",1
+Ember Spirit,"['ember_spirit_sleight_of_fist', 'ember_spirit_searing_chains']",1
+Drow Ranger,"['drow_ranger_wave_of_silence', 'drow_ranger_frost_arrows']",1
+Puck,"['aghsfort_weaver_shukuchi', 'hurricane_pike', 'mjollnir', 'aghsfort_luna_moon_glaive', 'aghsfort_luna_lucent_beam', 'aghsfort_weaver_the_swarm', 'satanic', 'orchid', 'aghsfort2_drow_ranger_multishot', 'bloodthorn', 'aghsfort_luna_lunar_blessing', 'aghsfort_weaver_time_lapse', 'aghsfort_weaver_geminate_attack', 'mango_orchard_toss_mango', 'aghsfort2_drow_ranger_wave_of_silence', 'aghsfort2_drow_ranger_marksmanship']",1
+Clinkz,"['clinkz_strafe', 'clinkz_death_pact', 'clinkz_wind_walk', 'clinkz_strafe']",1
+Bloodseeker,"['bloodseeker_bloodrage', 'bloodseeker_bloodrage', 'bloodseeker_blood_bath']",1
+Bane,"['bane_nightmare', 'bane_brain_sap', 'bane_nightmare']",1
+Marci,"['marci_companion_run', 'marci_grapple', 'marci_companion_run']",1
+Invoker,"['invoker_invoke', 'invoker_cold_snap', 'invoker_chaos_meteor', 'invoker_tornado', 'invoker_alacrity', 'invoker_ghost_walk', 'invoker_invoke', 'invoker_deafening_blast']",1
+Io,"['wisp_overcharge', 'wisp_spirits', 'wisp_tether']",1
+Pudge,"['pudge_dismember', 'pudge_meat_hook', 'blink']",1
+Wraith King,"['abyssal_blade', 'skeleton_king_hellfire_blast', 'swift_blink', 'skeleton_king_vampiric_aura']",1
+Monkey King,"['monkey_king_mischief', 'monkey_king_mischief']",1
+Pudge,"['earth_spirit_rolling_boulder', 'aghsfort_phoenix_icarus_dive', 'earth_spirit_geomagnetic_grip', 'trap_room_invuln', 'aghsfort_phoenix_fire_spirits', 'veil_of_discord', 'aghsfort_phoenix_sun_ray', 'mango_orchard_toss_mango', 'aghsfort_trap_room_hookshot', 'aghsfort_phoenix_supernova', 'aghsfort_phoenix_sun_ray_toggle_move']",1
+Shadow Shaman,"['shadow_shaman_voodoo', 'shadow_shaman_mass_serpent_ward', 'shadow_shaman_ether_shock', 'shadow_shaman_mass_serpent_ward', 'shadow_shaman_shackles', 'shadow_shaman_ether_shock', 'shadow_shaman_voodoo']",1
+Faceless Void,"['hand_of_midas', 'mask_of_madness']",1
+Shadow Fiend,"['nevermore_shadowraze1', 'nevermore_shadowraze2']",2
+Skywrath Mage,"['skywrath_mage_arcane_bolt', 'skywrath_mage_concussive_shot', 'skywrath_mage_arcane_bolt', 'skywrath_mage_ancient_seal', 'ghost']",1
+Dazzle,"['solar_crest', 'dazzle_shallow_grave', 'dazzle_poison_touch', 'dazzle_shadow_wave']",1
+Tinker,"['tinker_heat_seeking_missile', 'tinker_heat_seeking_missile']",1
+Storm Spirit,"['storm_spirit_static_remnant', 'storm_spirit_static_remnant', 'storm_spirit_electric_vortex']",1
+Clinkz,"['clinkz_searing_arrows', 'clinkz_strafe']",1
+Pudge,"['pudge_dismember', 'pudge_meat_hook']",1
+Ursa,"['aghsfort_weaver_shukuchi', 'aghsfort_luna_eclipse', 'hurricane_pike', 'mjollnir', 'aghsfort_luna_moon_glaive', 'aghsfort_luna_lucent_beam', 'aghsfort_weaver_the_swarm', 'aghsfort_trap_room_hookshot', 'aghsfort_clinkz_skeleton_walk', 'aghsfort2_drow_ranger_multishot', 'aghsfort_clinkz_burning_barrage', 'aghsfort2_drow_ranger_frost_arrows', 'plus_high_five', 'aghsfort_luna_lunar_blessing', 'aghsfort_weaver_time_lapse', 'aghsfort_weaver_geminate_attack', 'aghsfort_clinkz_burning_army', 'mango_orchard_toss_mango', 'aghsfort2_drow_ranger_wave_of_silence', 'aghsfort2_drow_ranger_marksmanship']",1
+Lifestealer,"['life_stealer_infest', 'life_stealer_rage']",1
+Centaur Warrunner,"['centaur_hoof_stomp', 'centaur_hoof_stomp']",1
+Witch Doctor,"['witch_doctor_maledict', 'witch_doctor_paralyzing_cask', 'witch_doctor_maledict']",1
+Queen of Pain,"['queenofpain_shadow_strike', 'queenofpain_scream_of_pain', 'queenofpain_scream_of_pain', 'queenofpain_shadow_strike']",1
+Disruptor,"['disruptor_thunder_strike', 'disruptor_glimpse', 'disruptor_thunder_strike']",1
+Tidehunter,"['tidehunter_anchor_smash', 'tidehunter_anchor_smash']",1
+Weaver,"['weaver_geminate_attack', 'weaver_shukuchi', 'weaver_geminate_attack', 'weaver_shukuchi', 'weaver_the_swarm']",1
+Treant Protector,"['treant_natures_grasp', 'treant_leech_seed', 'treant_natures_grasp']",1
+Mars,"['aghsfort_sniper_take_aim', 'aghsfort_sniper_shrapnel', 'plus_guild_banner', 'aghsfort_sniper_headshot', 'plus_high_five', 'trap_room_sprint', 'aghsfort_sniper_assassinate', 'mask_of_madness', 'mango_orchard_toss_mango', 'aghsfort_sniper_concussive_grenade']",1
+Morphling,"['ursa_earthshock', 'morphling_adaptive_strike_agi']",1
+Mirana,"['mirana_leap', 'mirana_starfall', 'mirana_invis']",1
+Razor,"['razor_static_link', 'razor_static_link']",1
+Ember Spirit,"['ember_spirit_flame_guard', 'ember_spirit_searing_chains', 'ember_spirit_sleight_of_fist']",1
+Slark,"['slark_dark_pact', 'slark_dark_pact', 'slark_pounce']",1
+Sniper,"['sniper_take_aim', 'sniper_take_aim']",1
+Magnus,"['magnataur_empower', 'magnataur_empower']",1
+Phantom Lancer,"['phantom_lancer_phantom_edge', 'phantom_lancer_spirit_lance', 'phantom_lancer_doppelwalk', 'phantom_lancer_phantom_edge']",1
+Doom,"['doom_bringer_devour', 'doom_bringer_infernal_blade']",1
+Pugna,"['pugna_nether_blast', 'pugna_decrepify']",1
+Enigma,"['aghsfort_templar_assassin_meld', 'aghsfort_templar_assassin_psionic_trap', 'lion_finger_of_death', 'trap_room_sprint', 'lion_impale', 'aghsfort_templar_assassin_refraction']",1
+Io,"['wisp_overcharge', 'wisp_spirits']",1
+Sand King,"['sandking_burrowstrike', 'sandking_sand_storm', 'blink', 'veil_of_discord']",1
+Monkey King,"['monkey_king_tree_dance', 'monkey_king_boundless_strike', 'monkey_king_tree_dance']",1
+Legion Commander,"['legion_commander_press_the_attack', 'legion_commander_press_the_attack', 'blink', 'legion_commander_duel']",1
+Weaver,"['weaver_geminate_attack', 'weaver_shukuchi', 'weaver_the_swarm', 'weaver_geminate_attack']",1
+Bane,"['bane_nightmare', 'bane_fiends_grip', 'bane_fiends_grip', 'bane_nightmare']",1
+Shadow Fiend,"['nevermore_shadowraze1', 'nevermore_shadowraze2', 'nevermore_shadowraze2', 'nevermore_shadowraze1']",1
+Tidehunter,"['tidehunter_gush', 'tidehunter_gush']",1
+Tinker,"['tinker_heat_seeking_missile', 'tinker_laser']",2
+Dazzle,"['dazzle_poison_touch', 'mekansm', 'dazzle_poison_touch', 'glimmer_cape']",1
+Windranger,"['windrunner_windrun', 'windrunner_powershot']",1
+Venomancer,"['aghsfort_juggernaut_blade_fury', 'aghsfort_phoenix_icarus_dive', 'guardian_greaves', 'trap_room_sprint', 'aghsfort_phoenix_fire_spirits', 'veil_of_discord', 'shivas_guard', 'aghsfort_juggernaut_omni_slash', 'aghsfort_juggernaut_healing_ward', 'blink', 'aghsfort_phoenix_sun_ray', 'bfury', 'satanic', 'mango_orchard_toss_mango', 'aghsfort_trap_room_hookshot', 'mekansm', 'cyclone', 'aghsfort_phoenix_supernova', 'aghsfort_phoenix_sun_ray_toggle_move', 'aghsfort_juggernaut_blade_dance']",1
+Tusk,"['aghsfort_luna_lunar_blessing', 'aghsfort_luna_lucent_beam', 'aghsfort_luna_eclipse', 'mask_of_madness', 'manta']",1
+Mirana,"['mirana_arrow', 'mirana_arrow', 'mirana_leap']",1
+Abaddon,"['abaddon_death_coil', 'abaddon_death_coil']",1
+Outworld Destroyer,"['obsidian_destroyer_sanity_eclipse', 'meteor_hammer', 'obsidian_destroyer_sanity_eclipse', 'blink']",1
+Enchantress,"['enchantress_impetus', 'enchantress_impetus', 'enchantress_enchant']",1
+Bristleback,"['bristleback_quill_spray', 'bristleback_viscous_nasal_goo', 'bristleback_quill_spray']",1
+Nyx Assassin,"['nyx_assassin_impale', 'nyx_assassin_spiked_carapace']",2
+Queen of Pain,"['queenofpain_blink', 'queenofpain_scream_of_pain', 'queenofpain_blink', 'queenofpain_scream_of_pain']",2
+Dazzle,"['dazzle_poison_touch', 'dazzle_poison_touch']",1
+Chaos Knight,"['aghsfort_templar_assassin_psi_blades', 'aghsfort_undying_flesh_golem', 'aghsfort_templar_assassin_psionic_trap', 'trap_room_invuln', 'trap_room_sprint', 'aghsfort_kunkka_tidebringer', 'aghsfort_gyrocopter_flak_cannon', 'aghsfort_gyrocopter_call_down', 'aghsfort_undying_soul_rip', 'aghsfort_kunkka_x_marks_the_spot', 'aghsfort_templar_assassin_refraction', 'aghsfort_templar_assassin_meld', 'aghsfort_undying_decay', 'satanic', 'mango_orchard_toss_mango', 'aghsfort_trap_room_hookshot', 'aghsfort_kunkka_torrent', 'aghsfort_gyrocopter_rocket_barrage', 'aghsfort_undying_tombstone', 'aghsfort_gyrocopter_homing_missile', 'aghsfort_kunkka_ghostship', 'aghsfort_trap_room_meathook']",1
+Warlock,"['warlock_fatal_bonds', 'warlock_upheaval', 'glimmer_cape', 'warlock_fatal_bonds']",1
+Juggernaut,"['juggernaut_healing_ward', 'juggernaut_blade_fury', 'juggernaut_healing_ward']",1
+Slardar,"['blink', 'slardar_sprint']",1
+Doom,"['aghsfort_dawnbreaker_solar_guardian', 'aghsfort_dawnbreaker_luminosity', 'aghsfort_dawnbreaker_celestial_hammer', 'aghsfort_dawnbreaker_fire_wreath', 'aghsfort_dawnbreaker_converge']",1
+Bane,"['aghsfort_sniper_take_aim', 'axe_berserkers_call', 'aghsfort_sniper_shrapnel', 'aghsfort_undying_flesh_golem', 'aghsfort_sniper_headshot', 'aghsfort_snapfire_scatterblast', 'guardian_greaves', 'phantom_assassin_phantom_strike', 'aghsfort_undying_soul_rip', 'black_king_bar', 'aghsfort_sniper_assassinate', 'blink', 'aghsfort_snapfire_firesnap_cookie', 'aghsfort_undying_decay', 'mango_orchard_toss_mango', 'aghsfort_trap_room_hookshot', 'mekansm', 'manta', 'rod_of_atos', 'cyclone', 'aghsfort_undying_tombstone', 'jakiro_ice_path', 'axe_battle_hunger', 'aghsfort_snapfire_lil_shredder', 'aghsfort_snapfire_mortimer_kisses']",1
+Bristleback,"['bristleback_quill_spray', 'eternal_shroud', 'hood_of_defiance', 'bristleback_viscous_nasal_goo', 'bristleback_quill_spray']",1
+Rubick,"['rubick_fade_bolt', 'blink', 'rubick_telekinesis_land']",1
+Techies,"['techies_land_mines', 'techies_remote_mines']",1
+Abaddon,"['abaddon_death_coil', 'heavens_halberd', 'abaddon_aphotic_shield', 'abaddon_death_coil']",1
+Shadow Demon,"['shadow_demon_shadow_poison', 'shadow_demon_shadow_poison']",1
+Crystal Maiden,"['crystal_maiden_crystal_nova', 'crystal_maiden_frostbite']",1
+Zeus,"['aghsfort_luna_eclipse', 'hurricane_pike', 'shivas_guard', 'aghsfort_luna_moon_glaive', 'aghsfort_luna_lucent_beam', 'aghsfort_phoenix_sun_ray_stop', 'aghsfort_phoenix_sun_ray', 'mask_of_madness', 'aghsfort_phoenix_sun_ray_toggle_move', 'aghsfort_phoenix_icarus_dive', 'ancient_janggo', 'aghsfort_phoenix_fire_spirits', 'veil_of_discord', 'aghsfort_luna_lunar_blessing', 'mango_orchard_toss_mango']",1
+Shadow Shaman,"['shadow_shaman_ether_shock', 'shadow_shaman_shackles', 'shadow_shaman_ether_shock']",1
+Alchemist,"['aghsfort_undying_flesh_golem', 'guardian_greaves', 'shivas_guard', 'aghsfort_undying_soul_rip', 'aghsfort_slark_pounce', 'aghsfort_slark_shadow_dance', 'aghsfort_slark_essence_shift', 'aghsfort_undying_decay', 'mango_orchard_toss_mango', 'mekansm', 'aghsfort_undying_tombstone', 'aghsfort_slark_dark_pact']",1
+Centaur Warrunner,"['centaur_hoof_stomp', 'centaur_double_edge']",1
+Warlock,"['warlock_shadow_word', 'warlock_shadow_word', 'warlock_upheaval']",1
+Beastmaster,"['beastmaster_wild_axes', 'beastmaster_call_of_the_wild_boar']",1
+Batrider,"['batrider_sticky_napalm', 'blink']",1
+Zeus,"['zuus_lightning_bolt', 'zuus_arc_lightning', 'zuus_lightning_bolt', 'zuus_arc_lightning']",1
+Vengeful Spirit,"['vengefulspirit_magic_missile', 'vengefulspirit_magic_missile']",2
+Puck,"['puck_ethereal_jaunt', 'puck_phase_shift', 'puck_ethereal_jaunt', 'puck_illusory_orb', 'puck_waning_rift', 'plus_high_five']",1
+Mirana,"['mirana_arrow', 'mirana_invis']",1
+Magnus,"['plus_high_five', 'magnataur_shockwave']",1
+Skywrath Mage,"['skywrath_mage_concussive_shot', 'skywrath_mage_concussive_shot', 'skywrath_mage_arcane_bolt']",1
+Crystal Maiden,"['crystal_maiden_crystal_nova', 'crystal_maiden_crystal_nova']",1
+Kunkka,"['kunkka_torrent', 'kunkka_tidebringer']",1
+Faceless Void,"['faceless_void_time_dilation', 'faceless_void_time_walk']",1
+Razor,"['razor_plasma_field', 'razor_static_link', 'razor_plasma_field']",1
+Jakiro,"['jakiro_macropyre', 'jakiro_dual_breath', 'jakiro_liquid_fire', 'jakiro_ice_path', 'jakiro_liquid_fire', 'jakiro_dual_breath']",1
+Silencer,"['force_staff', 'silencer_curse_of_the_silent', 'veil_of_discord', 'silencer_curse_of_the_silent', 'silencer_last_word', 'silencer_global_silence']",1
+Bounty Hunter,"['bounty_hunter_jinada', 'bounty_hunter_jinada']",2
+Pangolier,"['pangolier_swashbuckle', 'cyclone', 'pangolier_shield_crash', 'blink']",1
+Dawnbreaker,"['dawnbreaker_fire_wreath', 'dawnbreaker_celestial_hammer', 'dawnbreaker_converge']",1
+Shadow Fiend,"['nevermore_shadowraze3', 'nevermore_shadowraze1', 'nevermore_shadowraze2', 'nevermore_shadowraze1']",1
+Lina,"['lina_dragon_slave', 'lina_light_strike_array', 'lina_dragon_slave']",2
+Shadow Demon,"['shadow_demon_shadow_poison', 'shadow_demon_shadow_poison', 'shadow_demon_disruption']",2
+Vengeful Spirit,"['vengefulspirit_magic_missile', 'vengefulspirit_wave_of_terror']",2
+Legion Commander,"['legion_commander_overwhelming_odds', 'plus_high_five']",1
+Gyrocopter,"['gyrocopter_homing_missile', 'gyrocopter_homing_missile']",1
+Spectre,"['aghsfort_phoenix_icarus_dive', 'plus_guild_banner', 'aghsfort_templar_assassin_psionic_trap', 'plus_high_five', 'hurricane_pike', 'aghsfort_phoenix_fire_spirits', 'veil_of_discord', 'aghsfort_gyrocopter_flak_cannon', 'aghsfort_gyrocopter_call_down', 'aghsfort_lina_laguna_blade', 'bloodthorn', 'aghsfort_templar_assassin_refraction', 'aghsfort_templar_assassin_meld', 'aghsfort_lina_dragon_slave', 'aghsfort_lina_fiery_soul', 'aghsfort_phoenix_sun_ray', 'mango_orchard_toss_mango', 'aghsfort_lina_light_strike_array', 'aghsfort_gyrocopter_rocket_barrage', 'aghsfort_phoenix_sun_ray_toggle_move', 'aghsfort_gyrocopter_homing_missile']",1
+Dark Seer,"['dark_seer_surge', 'blink']",1
+Dazzle,"['dazzle_shallow_grave', 'dazzle_poison_touch', 'dazzle_shadow_wave', 'dazzle_poison_touch', 'dazzle_shadow_wave', 'dazzle_shallow_grave']",1
+Lina,"['lina_light_strike_array', 'plus_guild_banner']",1
+Lina,"['lina_dragon_slave', 'lina_light_strike_array', 'lina_dragon_slave', 'lina_light_strike_array']",2
+Sven,"['sven_warcry', 'sven_gods_strength', 'sven_storm_bolt', 'sven_warcry']",1
+Treant Protector,"['treant_living_armor', 'treant_living_armor']",1
+Void Spirit,"['void_spirit_resonant_pulse', 'void_spirit_dissimilate', 'void_spirit_aether_remnant', 'void_spirit_resonant_pulse']",1
+Storm Spirit,"['storm_spirit_static_remnant', 'storm_spirit_electric_vortex', 'storm_spirit_static_remnant']",1
+Disruptor,"['aghsfort_weaver_shukuchi', 'mjollnir', 'aghsfort_gyrocopter_flak_cannon', 'aghsfort_gyrocopter_call_down', 'aghsfort_weaver_the_swarm', 'blink', 'mask_of_madness', 'satanic', 'aghsfort_clinkz_skeletal_colossus', 'aghsfort_trap_room_hookshot', 'orchid', 'aghsfort_gyrocopter_rocket_barrage', 'aghsfort_trap_room_meathook', 'aghsfort_clinkz_skeleton_walk', 'aghsfort_clinkz_burning_barrage', 'aghsfort_clinkz_searing_arrows', 'bloodthorn', 'aghsfort_weaver_time_lapse', 'aghsfort_weaver_geminate_attack', 'aghsfort_clinkz_burning_army', 'mango_orchard_toss_mango', 'aghsfort_gyrocopter_homing_missile']",1
+Enchantress,"['enchantress_enchant', 'enchantress_enchant', 'solar_crest']",1
+Slardar,"['aghsfort_clinkz_skeleton_walk', 'aghsfort_clinkz_burning_barrage', 'aghsfort_undying_flesh_golem', 'refresher', 'aghsfort_undying_decay', 'aghsfort_clinkz_burning_army', 'aghsfort_clinkz_skeletal_colossus', 'aghsfort_trap_room_hookshot', 'orchid', 'cyclone', 'aghsfort_undying_tombstone', 'aghsfort_undying_soul_rip', 'bloodthorn']",1
+Templar Assassin,"['templar_assassin_meld', 'blink', 'templar_assassin_refraction', 'templar_assassin_psionic_trap', 'templar_assassin_meld', 'blink']",1
+Spirit Breaker,"['spirit_breaker_bulldoze', 'spirit_breaker_charge_of_darkness', 'spirit_breaker_nether_strike', 'spirit_breaker_nether_strike', 'spirit_breaker_bulldoze']",1
+Ember Spirit,"['ember_spirit_flame_guard', 'ember_spirit_flame_guard']",1
+Lich,"['aghsfort_undying_flesh_golem', 'guardian_greaves', 'solar_crest', 'aghsfort_gyrocopter_flak_cannon', 'aghsfort_gyrocopter_call_down', 'aghsfort_undying_soul_rip', 'aghsfort_undying_decay', 'mango_orchard_toss_mango', 'aghsfort_gyrocopter_rocket_barrage', 'aghsfort_undying_tombstone', 'aghsfort_gyrocopter_homing_missile']",1
+Chaos Knight,"['chaos_knight_chaos_bolt', 'chaos_knight_reality_rift', 'chaos_knight_chaos_bolt']",1
+Dazzle,"['dazzle_shallow_grave', 'dazzle_poison_touch', 'dazzle_shadow_wave', 'dazzle_poison_touch', 'dazzle_shallow_grave']",1
+Clinkz,"['aghsfort_sniper_take_aim', 'aghsfort_sniper_shrapnel']",1
+Shadow Shaman,"['aghsfort_undying_flesh_golem', 'pipe', 'shivas_guard', 'aghsfort_lina_laguna_blade', 'aghsfort_undying_soul_rip', 'aghsfort_kunkka_x_marks_the_spot', 'aghsfort_luna_moon_glaive', 'aghsfort_luna_lucent_beam', 'aghsfort_phoenix_sun_ray', 'aghsfort_phoenix_sun_ray_toggle_move', 'aghsfort_kunkka_ghostship', 'aghsfort_trap_room_meathook', 'aghsfort_phoenix_icarus_dive', 'aghsfort_clinkz_skeleton_walk', 'aghsfort_clinkz_burning_barrage', 'trap_room_invuln', 'trap_room_sprint', 'aghsfort_phoenix_fire_spirits', 'aghsfort_kunkka_tidebringer', 'aghsfort_lina_dragon_slave', 'aghsfort_lina_fiery_soul', 'aghsfort_undying_decay', 'mango_orchard_toss_mango', 'aghsfort_lina_light_strike_array', 'aghsfort_kunkka_torrent', 'aghsfort_dawnbreaker_fire_wreath', 'aghsfort_phoenix_supernova', 'aghsfort_undying_tombstone']",1
+Outworld Destroyer,"['obsidian_destroyer_arcane_orb', 'obsidian_destroyer_astral_imprisonment', 'meteor_hammer', 'obsidian_destroyer_arcane_orb']",1
+Viper,"['viper_nethertoxin', 'viper_viper_strike', 'viper_nethertoxin']",1
+Shadow Shaman,"['shadow_shaman_voodoo', 'plus_high_five', 'shadow_shaman_voodoo', 'shadow_shaman_mass_serpent_ward', 'shadow_shaman_shackles']",1
+Shadow Fiend,"['nevermore_shadowraze3', 'nevermore_shadowraze3']",1
+Leshrac,"['leshrac_lightning_storm', 'leshrac_split_earth', 'leshrac_pulse_nova']",1
+Shadow Shaman,"['shadow_shaman_ether_shock', 'shadow_shaman_shackles']",1
+Void Spirit,"['void_spirit_resonant_pulse', 'void_spirit_dissimilate', 'void_spirit_resonant_pulse', 'void_spirit_dissimilate']",1
+Keeper of the Light,"['keeper_of_the_light_blinding_light', 'keeper_of_the_light_chakra_magic', 'keeper_of_the_light_spirit_form_illuminate', 'keeper_of_the_light_spirit_form', 'keeper_of_the_light_blinding_light', 'glimmer_cape', 'keeper_of_the_light_illuminate', 'keeper_of_the_light_radiant_bind']",1
+Medusa,"['medusa_stone_gaze', 'medusa_mystic_snake']",1
+Huskar,"['huskar_inner_fire', 'huskar_life_break']",1
+Weaver,"['weaver_shukuchi', 'weaver_geminate_attack', 'weaver_geminate_attack', 'weaver_shukuchi']",1
+Outworld Destroyer,"['obsidian_destroyer_astral_imprisonment', 'obsidian_destroyer_arcane_orb']",1
+Hoodwink,"['hoodwink_bushwhack', 'hoodwink_bushwhack']",1
+Drow Ranger,"['aghsfort_sniper_take_aim', 'aghsfort_witch_doctor_maledict', 'swift_blink', 'force_staff', 'hurricane_pike', 'mjollnir', 'aghsfort_juggernaut_omni_slash', 'aghsfort_juggernaut_healing_ward', 'blink', 'mask_of_madness', 'satanic', 'aghsfort_trap_room_hookshot', 'aghsfort_juggernaut_zen_ward', 'cyclone', 'aghsfort_trap_room_meathook', 'aghsfort_juggernaut_blade_fury', 'aghsfort2_drow_ranger_multishot', 'aghsfort_witch_doctor_death_ward', 'aghsfort_sniper_shrapnel', 'aghsfort_sniper_headshot', 'aghsfort2_drow_ranger_frost_arrows', 'veil_of_discord', 'aghsfort_luna_lunar_blessing', 'aghsfort_witch_doctor_paralyzing_cask', 'black_king_bar', 'wind_waker', 'aghsfort_sniper_assassinate', 'mango_orchard_toss_mango', 'aghsfort2_drow_ranger_wave_of_silence', 'aghsfort2_drow_ranger_marksmanship', 'aghsfort_witch_doctor_voodoo_restoration', 'aghsfort_juggernaut_blade_dance']",1
+Treant Protector,"['treant_natures_grasp', 'treant_overgrowth', 'treant_leech_seed', 'treant_natures_grasp']",1
+Brewmaster,"['brewmaster_cinder_brew', 'brewmaster_drunken_brawler']",1
+Void Spirit,"['void_spirit_aether_remnant', 'void_spirit_aether_remnant']",1
+Ember Spirit,"['ember_spirit_flame_guard', 'ember_spirit_sleight_of_fist', 'ember_spirit_searing_chains', 'ember_spirit_flame_guard', 'ember_spirit_sleight_of_fist']",1
+Lion,"['lion_impale', 'lion_voodoo', 'lion_mana_drain', 'lion_mana_drain', 'lion_impale']",1
+Clockwerk,"['rattletrap_power_cogs', 'rattletrap_battery_assault', 'rattletrap_power_cogs']",1
+Crystal Maiden,"['crystal_maiden_frostbite', 'crystal_maiden_frostbite']",2
+Gyrocopter,"['blink', 'gyrocopter_call_down', 'gyrocopter_rocket_barrage']",1
+Rubick,"['rubick_fade_bolt', 'rubick_telekinesis', 'rubick_fade_bolt']",1
+Jakiro,"['aghsfort_templar_assassin_psi_blades', 'force_staff', 'hurricane_pike', 'aghsfort_templar_assassin_meld', 'aghsfort_trap_room_hookshot', 'orchid', 'aghsfort_trap_room_meathook', 'aghsfort_templar_assassin_psionic_trap', 'bloodthorn', 'aghsfort_templar_assassin_refraction', 'nullifier', 'mango_orchard_toss_mango']",1
+Naga Siren,"['sphere', 'bloodthorn']",1
+Windranger,"['windrunner_shackleshot', 'windrunner_powershot']",2
+Doom,"['doom_bringer_scorched_earth', 'doom_bringer_scorched_earth']",1
+Kunkka,"['aghsfort_juggernaut_blade_fury', 'aghsfort_magnataur_skewer', 'aghsfort_luna_eclipse', 'aghsfort_special_undying_consume_zombies', 'aghsfort_undying_flesh_golem', 'aghsfort_magnataur_empower', 'aghsfort_magnataur_reverse_polarity', 'refresher', 'trap_room_invuln', 'aghsfort_juggernaut_omni_slash', 'aghsfort_magnataur_shockwave', 'aghsfort_undying_soul_rip', 'aghsfort_juggernaut_healing_ward', 'aghsfort_luna_moon_glaive', 'aghsfort_luna_lucent_beam', 'aghsfort_lina_dragon_slave', 'blink', 'ghost', 'aghsfort_undying_decay', 'mango_orchard_toss_mango', 'aghsfort_lina_light_strike_array', 'aghsfort_juggernaut_zen_ward', 'aghsfort_special_magnataur_reverse_polarity_polarity', 'aghsfort_undying_tombstone', 'aghsfort_juggernaut_blade_dance']",1
+Enigma,"['enigma_midnight_pulse', 'enigma_demonic_conversion']",1
+Ursa,"['ursa_earthshock', 'ursa_earthshock']",1
+Night Stalker,"['night_stalker_void', 'night_stalker_crippling_fear']",1
+Terrorblade,"['terrorblade_conjure_image', 'terrorblade_reflection']",2
